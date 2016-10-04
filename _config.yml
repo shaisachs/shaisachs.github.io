@@ -19,7 +19,7 @@ address:
   - line:
   # Feel free to add more lines here 
 telephone:
-copyright: Shai Sachs 2016
+copyright: Shai Sachs
 
 # API settings
 google_api_key:

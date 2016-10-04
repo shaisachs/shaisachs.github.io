@@ -10,9 +10,12 @@
           {% endfor %}
         </p>
         <ul class="list-unstyled">
-          <li><i class="fa fa-phone fa-fw"></i> {{ site.telephone }}</li>
-          <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-          </li>
+		  {% if site.telephone %}
+	          <li><i class="fa fa-phone fa-fw"></i> {{ site.telephone }}</li>		  
+		  {% endif %}
+		  {% if site.email %}
+	          <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+		  {% endif %}
         </ul>
         <br>
         <ul class="list-inline">
@@ -28,6 +31,8 @@
         </ul>
         <hr class="small">
         <p class="text-muted">Copyright &copy; {{ site.copyright }} 20{{ site.time | date: '%y' }}</p>
+        <p class="text-muted">Theme by <a href="https://github.com/volny/stylish-portfolio-jekyll">volny</a></p>
+        <p class="text-muted">Photo by <a href="https://unsplash.com/@alisaanton?photo=ipdJIEMu9qE">Alisa Anton</a></p>
       </div>
     </div>
   </div>
