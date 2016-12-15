@@ -237,6 +237,11 @@ hr.small {
     pointer-events: none;
 }
 
+ul.post-list {
+    list-style: none;
+    padding: 0;
+}
+
 /* Footer */
 
 footer {
