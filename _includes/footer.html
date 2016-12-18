@@ -4,21 +4,21 @@
       <div class="col-lg-10 col-lg-offset-1 text-center">
         <h4><strong>{{ site.owner }}</strong></h4>
         
-        <p><img src="/img/avatar.jpg" alt="avatar" /></p>
-        <p>
-          {% for address in site.address %}
-          {{ address.line }}<br>
-          {% endfor %}
-        </p>
-        <ul class="list-unstyled">
-		  {% if site.telephone %}
-	          <li><i class="fa fa-phone fa-fw"></i> {{ site.telephone }}</li>		  
-		  {% endif %}
-		  {% if site.email %}
-	          <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-		  {% endif %}
-        </ul>
-        <br>
+        {% if page.layout == "front" %}
+          <p><img src="/img/avatar.jpg" alt="avatar" /></p>
+        {% endif %}
+
+        {% if site.telephone || site.email %}
+            <ul class="list-unstyled">
+    		  {% if site.telephone %}
+    	          <li><i class="fa fa-phone fa-fw"></i> {{ site.telephone }}</li>		  
+    		  {% endif %}
+    		  {% if site.email %}
+    	          <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+    		  {% endif %}
+            </ul>
+            <br>
+        {% endif %}
         <ul class="list-inline">
           <li>
             <a href="https://facebook.com/{{ site.facebook_username }}"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
