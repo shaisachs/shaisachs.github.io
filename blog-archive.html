@@ -4,7 +4,19 @@ title:  "Blog Archive"
 ---
 
 <section id="archive">
-  <h3>This year's posts</h3>
+  {% capture hasmultyears %}0{% endcapture %}
+  {% for post in site.posts %}
+      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+      {% if (post.next) and (year != nyear) %}
+        {% capture hasmultyears %}1{% endcapture %}
+      {% endif %}
+  {% endfor %}
+
+  {% if hasmultyears == '1' %}
+    <h3>This year's posts</h3>
+  {% endif %}
+
   {%for post in site.posts %}
     {% unless post.next %}
       <ul class="this">
