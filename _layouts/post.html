@@ -30,6 +30,17 @@
 
 					<article class="post-content">
 						{{ content }}
+
+						{% if page.photographer %}
+							<p class="credits">Photo courtesy of
+								{% if page.photographerurl %}
+									<a href="{{ page.photographerurl }}">
+								{% endif %}
+										{{ page.photographer }}
+								{% if page.photographerurl %}
+									</a>
+								{% endif %}
+						{% endif %}
 					</article>
 
 				</div> <!-- /.post -->

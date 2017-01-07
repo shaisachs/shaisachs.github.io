@@ -249,6 +249,11 @@ ul.post-list {
     text-align: center;
 }
 
+.post .credits {
+    font-size: 75%;
+    font-style: italic;
+}
+
 /* Footer */
 
 footer {
