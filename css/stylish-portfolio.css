@@ -178,6 +178,10 @@ hr.small {
     margin-bottom: 30px;
 }
 
+.project-desc {
+    text-align: left;
+}
+
 /* Callout */
 
 .callout {
