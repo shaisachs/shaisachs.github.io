@@ -253,9 +253,29 @@ ul.post-list {
     text-align: center;
 }
 
+.post h1.post-title .title-text,
+.page h1.page-title .title-text {
+    background-color: #000;
+    color: #fff;
+    padding: 15px;
+}
+
 .post .credits {
     font-size: 75%;
     font-style: italic;
+}
+
+ul.bookmarks {
+    list-style: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ul.bookmarks li {
+    float: left;
+    padding: 5px;
 }
 
 /* Footer */

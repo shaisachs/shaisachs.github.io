@@ -3,19 +3,12 @@ layout: page
 title:  "Blog Archive"
 ---
 
-<section id="archive">
-  {% capture hasmultyears %}0{% endcapture %}
-  {% for post in site.posts %}
-      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-      {% if (post.next) and (year != nyear) %}
-        {% capture hasmultyears %}1{% endcapture %}
-      {% endif %}
-  {% endfor %}
+<ul class="text-muted bookmarks">
+  <li>&#10146; <a href="/">Home</a></li>
+</ul>
 
-  {% if hasmultyears == '1' %}
-    <h3>This year's posts</h3>
-  {% endif %}
+<section id="archive">
+  <h3>This year's posts</h3>
 
   {%for post in site.posts %}
     {% unless post.next %}
