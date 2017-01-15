@@ -1,0 +1,97 @@
+---
+layout: post
+title:  "Semantically meaningful SDKs"
+date:   2017-01-10 19:00
+categories: prose programming
+bannerimg:
+photographer:
+photographerurl:
+---
+
+If you want developers to use your APIs, you want to make good SDKs available for them. But what makes for a good SDK?
+
+## Getting the basics right
+
+The starting point for a good SDK is one which makes it difficult, if not impossible, for developers to make obvious mistakes. Such an SDK doesn't require developers to think about endpoints, authorization, content-types, or other basics of request formation - except to the degree that such thinking actually may have an impact on what the developer wants to do.
+
+To take a simple example, an SDK for an API which supports both `application/json` and `text/csv` should make it possible for developers to choose between one content-type and the other - and nearly impossible to choose an invalid content-type. To take the example a bit further, if the API only supports `text/csv` at a handful of endpoints (but no others), then the content-type choice should not even be available except at those endpoints.
+
+Let's use a simple example. Suppose we have a book store API that supports information about books, ecommerce, etc. The API provides a `GET /books/{isbn}` endpoint which only supports `application/json`, and a `GET /orders` endpoint which supports `application/json` and `text/csv`. The SDK for this API should look something like this:
+
+```
+Book GetBook(string isbn);
+OrderHistory GetOrderHistory();
+OrderHistoryCsv GetOrderHistoryCsv(); // sets the content-type to text/csv and deserializes into a file
+```
+
+Other variations are possible, of course. The point really is that the developer should have to exert minimal effort in actually formulating a request, and it should be difficult for the developer to make a mistake while formulating a request.
+
+Similar thinking should guide problems like authorization, versioning, etc. If there are meaningful choices to be made in these areas, make them obvious to the developer.
+
+## Manage state meaningfully
+
+An SDK is really where the rubber hits the road in terms of API consumption. For one reason or another, APIs will often use data contracts which are efficient or otherwise useful for the server to produce - but which are not so helpful for consumers, at least with regards to their more common use cases.
+
+Let's again return to the book store and look at how consumers are supposed to place orders:
+
+```
+POST /orders
+{
+  "books": [
+  	{
+  		"isbn": "7777",
+  		"count": 1,
+  		"giftWrap": true
+  	},
+  	{
+  		"isbn": "8888",
+  		"count": 2,
+  		"giftWrap": false
+  	},
+  ],
+  "shipping": {
+  	"address": "123 Any St., Schenectedy NY 12345",
+  	"carrier": "USPS",
+  	"speed": "nextDay"  	
+  }
+}
+```
+
+This data contract is logical enough - it allows us to specify the books we want and the shipping details, etc. But think about what a naiive SDK might look like in this case:
+
+```
+var orderDetails = { Books = new[] Book{ ISBN = "7777"
+  // many more details ...
+};
+var order = CreateOrder(orderDetails);
+```
+
+The code to use this SDK will get out of hand and unwieldy very quickly. More to the point, for a modern ecommerce interface - in which order details tend to get built incrementally, with options such as gift wrapping offered as checkout-time upsells - this SDK will be almost totally useless. The developer will need to do a lot of work to manage the state of the `orderDetails` data contract along the way.
+
+A solid SDK will ease this burden tremendously, making it easy for developers to manage state incrementally:
+
+```
+var orderDetails = new OrderDetails;
+orderDetails.AddBook("7777"); // add a single copy of book 7777 to the order
+orderDetails.AddBook("8888");
+orderDetails.AddBook("8888"); // add a second copy of book 8888 to the order
+orderDetails.WrapBook("7777"); // add gift wrapping to the previously-added book 7777
+```
+
+There's a lot of art and subtlety to this SDK design, and it's easy to see how different choices might be made along the way. The design I've sketched out here is just a sample that might be helpful - or might be a little annoying - for developers, depending on the details of the API, the kinds of use cases developers want to support, etc. But it's easy to see how this design, opinionated though it may be about how the API should be used, offers developers a great deal more support and hand-holding than the first iteration above.
+
+## Making choices but staying flexible
+
+At the end of the day, putting together a semantically meaningful SDK is going to involve some definite choices around how developers are "supposed" to interact with your API.
+
+For one thing, it means making an SDK available in only one, or at best a handful, of languages. Unless your business is squarely focused on API usage, it's hard to justify maintaining a large number of SDKs, updating them as the API changes, and so forth. It's possible to auto-generate SDK code, of course - but autogenerated SDKs are not semantically meaningful.
+
+For another thing, it means having some insight into the typical use cases developers will want to accomplish, and providing affordances within the API to make those use cases easy. And that means putting your thumb on the scale, as it were: making substantive choices about which developer stories, among a vast array of potential ones, you will support.
+
+Some of these choices will fly in the face of one of the key tenets of API management, which is that APIs are supposed to facilitate new and previously unknown use cases. And indeed, there will be developers trying to do interesting things with your API, who will be stymied by the lack of support in the SDK.
+
+For that reason it's important to keep SDK's as open as possible - making the code public, using an appropriate open source license, and so forth. Doing so will allow consumers to get a better handle of how the SDK works, and how to extend it if needed. Even consumers who don't care to use the SDK directly can benefit from it - a good Python developer can look at an SDK written in PHP and gain insight as to how a Python SDK could or should look. An excellent one will make that code available.
+
+## Congratulations, you have a meaningful DPI
+
+While APIs are incredibly useful to consumers, and are even fun to produce, it's important to bear in mind that they are a mission-critical extension of your API. A lot of people like to say that an SDK is a part of your API, just as much as the code which produces your API is. I like the sentiment there - an SDK must be updated alongside the API - but I think it's strictly speaking a little bit incorrect. An API helps your service interface with other *applications*, while an SDK helps your service interface with other *developers*. If you're going to provide developers with an interface, it had better be a semantically meaningful one.
