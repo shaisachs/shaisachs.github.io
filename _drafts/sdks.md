@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Semantically meaningful SDKs"
-date:   2017-01-10 19:00
-categories: prose programming
 bannerimg:
 photographer:
 photographerurl:
