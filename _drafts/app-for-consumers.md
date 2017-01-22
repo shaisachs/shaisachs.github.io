@@ -1,6 +1,10 @@
 ---
 layout: post
-title: app for consumers
+title: Serving Consumers in the API Economy
+date: 2017-01-22 14:00
+bannerimg: /img/posts/meter.jpg
+photographer: Gab Pili
+photographerurl: https://unsplash.com/@gabpili
 ---
 
 One of the big hits at APIStrat 2016 was Mark O'Neill's talk on the [API Economy](https://boston2016.apistrat.com/speakers/mark-oneill), and specifically, on the needs of API consumers. There are a lot more consumers than producers, the thinking goes, so why does the API industry spend so much time on the needs of producers and so little on the time of consumers?
