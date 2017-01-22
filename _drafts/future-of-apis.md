@@ -1,0 +1,23 @@
+---
+layout: post
+title: future of apis
+---
+
+This piece on The Future Of APIs is an interesting read. Although I think it suffers from a couple of mistakes.
+
+I really enjoyed the history lesson at the beginning, especially the bit about the mechanical Turk. I had not know the origin of that tem and I think that any time you’re writing about anachronistic early automota, you must be doing something right.
+
+The past is just prologue, though. The future of APIs, apparently, is standards alignment, pluggability, and machine-to-machine discoverability. Z’s belief is that layering a vocabulary of semantically consistent terms on top of APIs will alleviate the time-consuming burdens of documentation, discovery, and integration. Once that’s done, machines will be able to find one another and integrate on the fly. Voila!
+
+The commenters identify the problem with this scheme somewhat readily. Standards alignment doesn’t reduce the burden of this work, it just moved it around to some kind of standards committee. And in fact standards alignment is no joke. Coming up with a simple list of terms to define a group of competing APIs is itself a difficult task that inevitably requires a lot of careful manuevering. Aligning to that list is even more difficult. Z’s example of a set of weather APIs sounds nice and simple, but in fact there’s a lot of complexity beneath the surface, since not all weather APIs are created equally. Some offer ski conditions, other flight conditions; some accept postal codes as inputs, other plain text location names; some offer forecast on a daily granularity, others on a seasonal granularity. There are storm clouds brewing for this proposal!
+
+There is a still deeper problem with the idea of machine to machine discoverability, which is that it misses the point of software at a somewhat fundamental level. A lot of software developers make the mistake of assuming that good programming means that the computer responds to X input with Y response. In fact, good programming is about communication.
+
+Take any software program that comes to mind, from Microsoft Excel to Amazon to GM Onboard. What is the goal of any of these programs? Yes, the software succeeds only if it gives the right answer, if the UI works smoothly, etc. But even if all of these factors work out perfectly, the program is a failure unless it helps a person communicate an idea effectively. In the case of Amazon it might be a consumer asking a store for a book. In the case of GM Onboard it’s a driver asking an agent for help with car trouble. But even Excel, operated by a single person who never shares a spreadsheet with anyone, is actually about communication as well. It’s the user, at one point in time, communicating with herself at a future point in time: “last month I put together this budget and this month I better stick to it", or something of the sort.
+
+APIs are very fascinating because they facilitate a magical sort of communication that looks invisible. But in point of fact the communication is not invisible, and there are humans on both ends of the call. Every API call is in some way initiated by a person, and every API response is in some way answered by a person. The initiation and the answer might not be real time, there may be code or database records intervening, and so forth - but these are just intermediaries.
+
+(Delete)
+The idea of machine-to-machine discoverability has some interesting parallels to the ideas that spawned the USB standard. In the bad old days of computers, connecting a computer to a peripheral was an all-day project involving instruction manuals, loading drivers to disk, one or two calls to customer support, and so forth. The USB standard created a simple interface that allowed true pluggability between computers and peripherals, and it was a thing of beauty. Hours of frustration evaporated with its adoption. But of course this standard did not mean that computers could connect to printers or scanners autonomously. A person still needs to decide that a printer is needed in the first place, which one is most suitable,and so forth; and even after someone connects a computer to a printer, that person must still decide that document A must go to the printer as opposed to documents B and C.
+
+All that said: I think a lot. of Z’s ideas bear careful consideration, and he raised some important concerns. Discoverability is a major concern, and point-to-point integrations are hard and time consuming. However much we can reduce the cost of these problems, we are sure to benefit. But we need to have a clear eye on the ultimate goal, or we will wind up spending a lot of time pushing the problem arounnd.
