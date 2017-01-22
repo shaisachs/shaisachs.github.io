@@ -7,7 +7,7 @@ photographer: Gab Pili
 photographerurl: https://unsplash.com/@gabpili
 ---
 
-One of the big hits at APIStrat 2016 was Mark O'Neill's talk on the [API Economy](https://boston2016.apistrat.com/speakers/mark-oneill), and specifically, on the needs of API consumers. There are a lot more consumers than producers, the thinking goes, so why does the API industry spend so much time on the needs of producers and so little on the time of consumers?
+One of the big hits at APIStrat 2016 was Mark O'Neill's talk on the [API Economy](https://boston2016.apistrat.com/speakers/mark-oneill), and specifically, on the needs of API consumers. There are a lot more consumers than producers, the thinking goes, so why does the API industry spend so much time on the needs of producers and so little on the needs of consumers?
 
 Good question! The implicit answer: we should spend more time providing support to API consumers as a class of users. But how exactly do we do that? O'Neill hinted at a few ideas, but really left the question as an exercise for the listener.
 
@@ -16,7 +16,7 @@ Below, I've attempted to fill in the blanks a bit. What would an API conumption 
 ## Goals
 Most importantly: what are the goals of an API consumption service? What do consumers want? Here are the use cases that seem most viable to me.
 
-* **Manage costs**. It's easy to write API consumption consumption that leads to unexpectedly huge bills. Consumers want warnings as their usage approaches certain limits, and maybe even smart analytics to suggest more economical consumption patterns. Wouldn't it be great (as a consumer) to know that if you just reschedule your API calls a bit, you could cut your bills in half?
+* **Manage costs**. It's easy to write API consumption code that leads to unexpectedly huge bills. Consumers want warnings as their usage approaches certain limits, and maybe even smart analytics to suggest more economical consumption patterns. Wouldn't it be great (as a consumer) to know that if you just reschedule your API calls a bit, you could cut your bills in half?
 * **Security**. Consumers need to manage their credentials in a way that grants access only to the developers who need them, with some credentials less tightly guarded than others (think about credentials for a sandbox or development environment, as opposed to credentials for a production environment). These needs are not all that different from enterprise password management, and my guess is that many consumers use enterprise password management for API credentials in a pinch. But the two services are different, and there are sure to be pain points in this approach: for example, systematically separating production and development credentials, segmenting credentials by tenancy, etc. 
 * **Monitoring**. Consumers want to know when the APIs they need are not working, breaking contracts unexpectedly, or merely slow. All of these incidents can cause pain - often very expensive pain - for end users.
 
@@ -27,14 +27,14 @@ There are probably many other use cases that a consumption service could address
 The next question is, who is actually paying for a consumption service? Who is the user? There are three obvious possibilities:
 
 * API producers
-* API integrators
+* API integrators (that is, consumers)
 * End users of an integration
 
 Very probably, integrators will be the most invested users. They are the parties who have both the motivation to keep costs low, and the know-how to use an API consumption service.
 
-Note however that there's no reason that such a service couldn't target either of the other two audiences. Producers have an incentive to keep costs within a certain range - not so high that they discourage consumption altogether, and not so low as to eliminate profit. Producers also have other incentives, for example, throttling usage at peak times. And producers often have ready access to API management tools which are potentially good starting points for managing consumption as well as production. So it's entirely possible that an API consumption service might have its origins in an API management service.
+Note however that there's no reason that such a service couldn't target either of the other two audiences. Producers have an incentive to keep costs within a certain range - not so high that they discourage consumption altogether, and not so low as to eliminate profit. Producers also have other incentives, for example, throttling usage at peak times. And producers often have ready access to API management tools which are potentially good starting points for managing consumption as well as production. So it's entirely possible that an API consumption service might have its origins in an API management service, with a goal of keeping both producers and consumers happy.
 
-End users obviously have the most incentive to mange consumption, but may lack the skills to use such a service, or indeed any knowledge of what an API is, in the first place. However, end users are in a unique position to pull the trigger on certain kinds of consumption services. Imagine, for example, a smart phone app which manages all the outbound API calls from your device. Such an app would be uniquely suited to help you get a handle on data usage, and potentially reduce your cell phone bills. It could have an alluring appeal, even to the most tehcnologically illiterate users.
+End users obviously have the most incentive to mange consumption, but may lack the skills to use such a service, or indeed any knowledge of what an API is, in the first place. However, end users are in a unique position to pull the trigger on certain kinds of consumption services. Imagine, for example, a smart phone app which manages all the outbound API calls from a device. Such an app would be uniquely suited to help the smart phone owner get a handle on data usage, and potentially reduce cell phone bills. It could have an alluring appeal, even to the most tehcnologically illiterate users.
 
 ## An MVP
 
