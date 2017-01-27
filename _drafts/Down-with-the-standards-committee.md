@@ -1,6 +1,10 @@
 ---
 layout: post
-title: Down with the standards committee
+title:  "Down with the standards committee!"
+date:   2017-01-26 19:00
+bannerimg: /img/posts/meeting.jpg
+photographer: Charles Forerunner
+photographerurl: https://unsplash.com/@charles_forerunner
 ---
 
 
