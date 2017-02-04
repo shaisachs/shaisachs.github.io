@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Future of APIs is Linguistics"
+title: "The Future of APIs is Language"
 date:   2017-02-03 19:30
 bannerimg: /img/posts/chess.jpg
 photographer: Maarten van den Heuvel
