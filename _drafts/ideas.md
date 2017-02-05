@@ -4,7 +4,8 @@ title: ideas
 ---
 
 Apis and hack a thons
-Goodreads
+Cosmic js
+~Goodreads~
 Json outbound
 Recursive language
 How to address scenarios
