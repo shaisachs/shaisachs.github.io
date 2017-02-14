@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "Time to UPSERT HTTP/1.1"
+date:   2017-02-07 20:00
+bannerimg: /img/posts/pencils.jpg
+photographer: Angelina Litvin
+photographerurl: https://unsplash.com/@linalitvina
 ---
 
 The standard dogma in RESTful API design is that HTTP verbs should be used almost like thin translations on top of the SQL statements which they request: GET for SELECT, POST for INSERT, etc. It's an elegant idea which works very well - for databases that were designed 15 years ago.
@@ -9,7 +13,7 @@ Modern databases now support UPSERT semantics in one form or another: in a singl
 
 In classic RESTful design, UPSERTs require two API calls, a GET followed by a POST or PUT as appropriate. Such design is wasteful, requiring two database transactions even if a single UPSERT is possible. Generally speaking it's possible to take advantage of UPSERTs in the UI without much fuss, but of course the problem is that APIs are designed for many more transactions than UIs. To make APIs less efficient than UIs seems terribly pear-shaped.
 
-And of course, there's already a movement towards UPSERT semantics in APIs - Sails and Strongloop both support findOrCreate operations. But while these endpoints are useful, maybe even mission-critical, they are not RESTful, since they embed the operation to be conducted in the resource itself (e.g., `/books/findOrCreate`). It sure would be nice to have a mechanism which allows us to take advantage of RESTful principles and database best practices.
+And of course, there's already a movement towards UPSERT semantics in APIs - for example, see the `/findOrCreate` endpoints that Strongloop generates as a matter of course. While these endpoints are useful, maybe even mission-critical, they are not RESTful, since they embed the operation to be conducted in the resource itself (e.g., `/books/findOrCreate`). It sure would be nice to have a mechanism which allows us to take advantage of RESTful principles and database best practices.
 
 More than performance tuning, there's also a question of consistent semantics. The problem with a "findOrCreate" endpoint isn't really that it doesn't neatly fit a definition in a paper; rather, it's that the meaning of such an idiom can readily change from one service provider to the next. In particular - which part of the POST body is the candidate key used for the find operation, and which part is the part of the resource to be updated? There's no programmatic way to communicate the resource identifier, as there is with a PUT operation. For that matter, there's no programmatic way to determine that `POST /resources/findOrCreate` indicates an UPSERT as opposed to, say, `POST /resources/upsert`, or some other magic string in the route. These endpoints are fine as stop-gap measures, but eventually we will need to improve.
 
