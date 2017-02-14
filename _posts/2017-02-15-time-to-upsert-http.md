@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Time to UPSERT HTTP/1.1"
+title: "Time to UPSERT HTTP"
 date:   2017-02-07 20:00
 bannerimg: /img/posts/pencils.jpg
 photographer: Angelina Litvin
