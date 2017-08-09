@@ -1,0 +1,5 @@
+
+
+One of the most profound and elegant concepts in modern mathematics is that of the arithmetic hierarchy. It has dramatically affected the way computer scientists think about programming. What is even more interesting to me is that I think it can be a helpful tool in writing fiction, and that is an idea I've started to explore recently.
+
+I'm not nearly enough of an expert in recursion theory to properly explain the arithmetic hierarchy, but never mind - that won't stop me from taking a stab. The idea begins with the concept of decidability. Turing famously showed that there exist some sets, and some numbers, for which it will never be possible for any algorithm to decide whether the number in question belongs to the set; these numbers are undecidable. But: suppose it were possible for some oracle to solve these decision problems for us? It turns out that, if we are equipped with such an oracle, then a new world is possible - and inside that world, there is another undecidability problem. And a second oracle, which solves the second undecidable problem, would only give rise to a third worl with a third undecidable problem, and so on and so forth.
