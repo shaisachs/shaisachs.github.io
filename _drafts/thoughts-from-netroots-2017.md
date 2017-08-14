@@ -1,6 +1,10 @@
 ---
 layout: post
-title: thoughts from netroots 2017
+title: Thoughts from Netroots Nation 2017
+date: 2017-08-09 20:00
+bannerimg: /img/posts/peaches.jpg
+photographer: Krishnam Moosaddee
+photographerurl: https://unsplash.com/@krishnam_moosaddee
 ---
 
 I just got back from Netroots Nation 2017, where I gave a training on the [NGP VAN API](https://developers.ngpvan.com), together with my colleague Sandy Gani. You can find the code we discussed [here](https://github.com/ngpvan/ngpvan-api-example).
