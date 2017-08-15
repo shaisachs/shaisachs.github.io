@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thoughts from Netroots Nation 2017
-date: 2017-08-09 20:00
+date: 2017-08-14 20:00
 bannerimg: /img/posts/peaches.jpg
 photographer: Krishnam Moosaddee
 photographerurl: https://unsplash.com/@krishnam_moosaddee
