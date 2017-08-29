@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Canvassing tech requires social infrastructure
+date: 2017-08-29 13:00
 bannerimg: /img/posts/phonecall.jpg
 photographer: Priscilla Du Preez
 photographerurl: https://unsplash.com/@artographybyp
