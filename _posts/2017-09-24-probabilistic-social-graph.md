@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mapping out the probabilistic social graph
-date: 2017-09-23 13:00
+date: 2017-09-24 13:00
 bannerimg: /img/posts/friends.jpeg
 photographer: Annie Spratt
 photographerurl: https://unsplash.com/@anniespratt
