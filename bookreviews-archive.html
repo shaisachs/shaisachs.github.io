@@ -7,8 +7,10 @@ title:  "Book Reviews Archive"
   <li>&#10146; <a href="/">Home</a></li>
 </ul>
 
+<p>Since January 2013, I’ve done my best to review every book I read. The result is a blog-by-books that has proven to be remarkably fun to write and revisit from time to time.</p>
+
 <section id="archive">
-  {%for post in site.posts %}
+    {%for post in site.posts %}
     {% if post.layout == "bookreview" %}
       <li><time>{{ post.date | date:"%d %b %Y" }}</time>: <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
