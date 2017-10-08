@@ -30,9 +30,11 @@
 						</ul>
 
 						<p class="post-meta">
-							{{ page.date | date: "%b %-d, %Y" }}
 							{% if page.author %} • {{ page.author }}{% endif %}
 							{% if page.meta %} • {{ page.meta }}{% endif %}
+							<br/>Read {{ page.bookstarted | date: "%b %-d, %Y" }} - {{ page.bookfinished | date: "%b %-d, %Y" }}
+							<br/>{{ page.bookrating }} stars
+	                <i class="fa fa-star"></i>
 						</p> <!-- /.post-meta -->
 
 						<p class="bookfullimage">
