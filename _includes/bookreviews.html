@@ -1,13 +1,17 @@
-<section id="blog" class="blog">
+<section id="bookreviews" class="blog">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 text-center">
-        <h2>Blog</h2>
+        <h2>Book Reviews</h2>
+        
         <ul class="post-list">
           {% for post in site.posts limit:3 %}
-            {% if post.layout == "post" %}
+            {% if post.layout == "bookreview" %}
               <li>
                 <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+
+                <p><img align="left" src="{{ post.booksmallimage }}" /></p>
+
                 <p><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></p>
                 
                 <p class="post-excerpt text-left">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
@@ -16,9 +20,7 @@
           {% endfor %}
         </ul>
 
-        <p><a href="{{ "/blog-archive.html" | prepend: site.baseurl }}">archive</a></p>
-        <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
-        
+        <p><a href="{{ "/bookreviews-archive.html" | prepend: site.baseurl }}">archive</a></p>
 
       </div>
     </div>
