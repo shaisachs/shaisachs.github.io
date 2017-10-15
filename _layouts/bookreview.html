@@ -33,8 +33,12 @@
 							{% if page.author %} • {{ page.author }}{% endif %}
 							{% if page.meta %} • {{ page.meta }}{% endif %}
 							<br/>Read {{ page.bookstarted | date: "%b %-d, %Y" }} - {{ page.bookfinished | date: "%b %-d, %Y" }}
-							<br/>{{ page.bookrating }} stars
-	                <i class="fa fa-star"></i>
+							{% if page.rating %}
+								<br/>
+									{% for i in (1..page.rating) %}
+									    <i class="fa fa-star" aria-hidden="true"></i> 
+									{% endfor %}
+							{% endif %}
 						</p> <!-- /.post-meta -->
 
 						<p class="bookfullimage">
