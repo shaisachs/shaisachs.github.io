@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Happy birthday to the Digital Resistance"
+date:   2017-11-06 20:30
+bannerimg: /img/posts/birthday.jpg
+photographer: Nikhita Singhal
+photographerurl: https://unsplash.com/@nikhita
+---
+
+The resistance will be digitized.. but by whom?
+
+About a year ago today, the Digital Resistance was born. Now, on its first birthday, and the eve of a critical off-year election, it's time to reflect on all that the Digital Resistance has accomplished, and to see where it's going.
+
+On November 9, 2016, the world woke up to an unprecedented shock - the night before, Donald Trump had been declared the President-elect. That news upset a lot of people, but it seemed to strike a particularly deep chord within the high-tech community. The response was a massive outpouring of activism among technically savvy folks, arguably the biggest wave of new activity in the political technology space ever. In short order there were new organizations for coders to join, new open source projects for them to contribute to, and new hackathons where they could bring their technical skills to bear on political problems. And thus, the Digital Resistance was born.
+
+The Digital Resistance is my name for a whole set of activity that is closely related to, but slightly set apart from, the larger body of online-and-offline activism that touched off a year ago. Widely called the Resistance, this movement also encompasses a suite of new organizations, like Indivisible, Brand New Congress, and Sister District; a wide range of events, such as the Women's March; and a flurry of activity around hot-button issues, such as the Affordable Care Act. There is, to be sure, a huge amount of overlap between the Digital Resistance and the larger Resistance. There is no shortage of people active in both, and the strategy employed by the latter is generally endorsed whole-heartedly by the former. Indeed, there are numerous Digital Resistance projects whose entire _raison d'etre_ is to facilitate activism within the Resistance.
+
+At a high level, the Digital Resistance appears to be composed of four sub-movements:
+
+1. **Coder organizations**, like [RagTag](https://ragtag.org/) and [Progressive Coders Network](https://www.progcode.org/), which seek to help software developers volunteer their skills for progressive causes;
+2. **Open source projects**, like the [Resistance Calendar](https://www.resistancecalendar.org/), which hope to marry the values of the open source movement to that of the Resistance or the larger progressive movement;
+3. **For-profit endeavors**, like [Mobilize America](https://www.mobilizeamerica.io/), which seek to develop a business model around technology that helps progressive causes;
+4. **Civic tech projects**, like [Data for Democracy](http://datafordemocracy.org/), which bring technical skills to bear on a wide variety of social issues, ranging from climate action to refugee aid.
+
+The lines between these sub-movements are certainly blurry. For example, the open-source Resistance Calendar is affiliated with Progressive Coders Network, a coder organization. Still, these are useful ways to think about the kinds of activity that Digital Resistance organizations are undertaking, and the audiences they are targeting. Some organizations target developers; others target progressive organizations and candidates; still others target government agencies and charities. There is certainly a common spirit across these activities, but a wide variety of different tactics embedded within each. Of course it's also worth clarifying that words like "coder" and "technical skills," as I've used them, are a bit imprecise, since many of these groups work with designers, project managers, veterans of progressive campaigns - in addition to software developers.
+
+However, that's not to say these various strands of the Digital Resistance are interchangeable. In point of fact they are quite different in terms of their focus, target audience, and theory of change. Coder organizations are of course focused on coders (and the larger set of technically-savvy folks) who want to volunteer their time on behalf of a variety of technical projects; their theory of change is centered around capacity-building for progressive groups or causes of one sort or another. Open source projects are more focused on directly addressing the needs of activists or organizations. Entrepreneurs are more likely focused on the needs of organizations, largely because the most viable business plans in progressive technology revolve around selling products or services to established organizations with an existing budget. And civic tech projects side-step the political process altogether, focusing instead on immediate social impact rather than attempting to make change through the political process. Here again I should note, there are exceptions and nuances all over the map; plenty of civic tech projects are concerned with the fairness and accessibility of the electoral process, for instance.
+
+My own impression is that the most successful among these organizations, in terms of buy-in from the progressive movement and impact on the world at large, have been the for-profit ventures. That is certainly a biased and unquantified impression, based in large part on my own experience; I would not even pretend to call that an impartial or scientific observation. Indeed, it's probably not even possible to measure such amorphous quantities as "impact on the world at large" in any sort of scientific way.
+
+If my impression is correct, then my guess is that there are a number of factors contributing to this success:
+
+* Incubator funds, like [Higher Ground](https://www.highergroundlabs.com/) Labs, which have invested money, political connections, and resources, to make many of these organizations successful.
+* A healthy "lean startup" approach that has driven most of these organizations towards bringing their products to market as quickly as possible, and field testing those products in off-year elections.
+* Progressive partisanship, through which for-profit endeavors focus on the needs of the progressive sector and tailer their marketing accordingly. That's a significant advantage over open source projects, which tend to prefer non-profit organizational structures, and civic tech projects, which work largely with non-profit organizations and governments.
+
+At this point it's tempting to suppose that the Digital Resistance will begin to reflect the pre-2016 progressive technology landscape more and more: that is, it'll be a collection of partisan, for-profit ventures. While I do think that these sort of ventures will continue to prosper (and indeed, given that I work for [just such an organization](https://www.ngpvan.com), I hope that's the case), I also suspect the picture's incomplete. There is clearly a tremendous amount of volunteer energy in the progressive technology landscape, and I believe that the institutional infrastructure which has sprung up to channel that energy will continue to adapt and strengthen. By 2020, or even 2018, that infrastructure may look very different than it does today - I suspect that more than a few not-for-profit organizations will wither and fold, and that others will pivot in terms of focus and approach. And I think that the forces which have made for-profit ventures successful will impact not-for-profit groups in their turn. But how exactly that will happen is anyone's guess.
