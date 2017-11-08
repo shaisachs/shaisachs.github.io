@@ -265,6 +265,26 @@ ul.post-list {
     color: #fff;
 }
 
+.post h1.bookreview-title {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+
+.post h1.bookreview-title .title-plate {
+    background-color: #000;
+    padding: 15px;
+}
+
+.post h1.bookreview-title .title-text {
+    color: #fff;
+}
+
+.bookreview-cover {
+  padding-top: 30px;  
+}
+
 .post .credits {
     font-size: 75%;
     font-style: italic;

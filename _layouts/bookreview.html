@@ -9,19 +9,24 @@
 
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-10 col-lg-offset-1 text-left">
+			<div class="col-lg-1 text-left">
+				<div class="bookreview-cover">
+					<img src="{{ page.bookcoverimage }}" />
+				</div>
+			</div>
+			<div class="col-lg-8 col-lg-offset-3 text-left">
 
 				<div class="post">
 
-					<header class="post-header">
-						<h1 class="post-title"
+					<header class="bookreview-header">
+						<h1 class="bookreview-title"
 							{% if page.bannerimg %}
 								style="background-image: url({{ page.bannerimg }})"
 							{% endif %}
 							>
-      <div class="title-plate">
-							<span class="title-text">Book Review: {{ page.title }}</span>
-      </div>
+			      	<div class="title-plate">
+								<span class="title-text">Book Review: {{ page.title }}</span>
+      				</div>
 						</h1>
 
 						<ul class="text-muted bookmarks">
@@ -36,7 +41,10 @@
 							{% if page.rating %}
 								<br/>
 									{% for i in (1..page.rating) %}
-									    <i class="fa fa-star" aria-hidden="true"></i> 
+								    <i class="fa fa-star" aria-hidden="true"></i> 
+									{% endfor %}
+									{% for i in (page.rating..4) %}
+								    <i class="fa fa-star-o" aria-hidden="true"></i> 
 									{% endfor %}
 							{% endif %}
 						</p> <!-- /.post-meta -->
@@ -48,8 +56,11 @@
 
 					<article class="post-content">
 						{{ content }}
-
 					</article>
+
+					{% if page.reviewurl %}
+						<p><a href="{{ page.reviewurl }}">Review on Goodreads</a></p>
+					{% endif %}
 
 				</div> <!-- /.post -->
 
