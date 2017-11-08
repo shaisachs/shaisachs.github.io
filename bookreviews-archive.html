@@ -9,11 +9,10 @@ title:  "Book Reviews Archive"
 
 <p>Since January 2013, I’ve done my best to review every book I read. The result is a blog-by-books that has proven to be remarkably fun to write and revisit from time to time.</p>
 
+{% assign bookreviews = site.posts | where:'layout', 'bookreview' %}
 <section id="archive">
-    {%for post in site.posts %}
-    {% if post.layout == "bookreview" %}
+    {%for post in bookreviews %}
       <li><time>{{ post.date | date:"%d %b %Y" }}</time>: <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
+    {% endfor %}
   </ul>
 </section>

@@ -5,7 +5,9 @@
         <h2>Book Reviews</h2>
         
         <ul class="post-list">
-          {% for post in site.posts | where:"layout","bookreview" limit:3 %}
+          {% assign bookreviews = site.posts | where:'layout', 'bookreview' %}
+
+          {% for post in bookreviews | limit:3 %}
             <li>
               <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 
