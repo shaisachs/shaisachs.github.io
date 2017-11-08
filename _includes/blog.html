@@ -4,15 +4,14 @@
       <div class="col-lg-8 col-lg-offset-2 text-center">
         <h2>Blog</h2>
         <ul class="post-list">
-          {% for post in site.posts limit:3 %}
-            {% if post.layout == "post" %}
-              <li>
-                <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-                <p><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></p>
-                
-                <p class="post-excerpt text-left">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-              </li>
-            {% endif %}
+          {% assign blogposts = site.posts | where:'layout', 'post' %}
+          {% for post in blogposts | where:"layout","post" limit:3 %}
+            <li>
+              <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+              <p><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></p>
+              
+              <p class="post-excerpt text-left">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+            </li>
           {% endfor %}
         </ul>
 

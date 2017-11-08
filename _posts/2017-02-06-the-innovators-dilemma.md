@@ -1,0 +1,20 @@
+---
+layout: bookreview
+title: "The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business"
+date: 2017-02-06 13:00
+bookstarted: 2017-01-23
+bookfinished: 2017-02-06
+rating: 3
+bookcoverimage: 
+reviewurl: https://www.goodreads.com/review/show/971387528
+---
+
+The Innovator's Dilemma is a classic study of innovation and its role in the success or failure of firms in an industry. Christensen's famous theory states that at a certain point in the development of an industry, firms can fail by innovating in the wrong way - pursuing sustaining innovations (those which enhance their central lines of business, which make it easier to reach their existing customers, etc.) and ignoring disruptive innovations (those which introduce new products, which serve undiscovered markets, which deliver value to the customer in a new way.) Moreover, the theory suggests that the problem of pursuing the wrong sort of innovation is endemic to healthy, well-managed firms which are actively pursuing the innovations which seem most logical and profitable in the short run - hence the innovator's dilemma. This theory is drawn from case studies across a variety of industries: hard disk drives, excavation equipment, steel mills, and so forth. 
+
+
+
+The book was widely well-received; indeed, it launched a cottage industry of business people seeking the next disruptive innovation, or hoping to detect disruptive innovation in its early stages. And there has been a smattering of criticism as well - most notably, Jill Lepore's piece in the New Yorker. The case against the theory is that it picks and chooses from a relatively small number of case studies, that the evidence behind the central case study in disk drives is problematic due to a variety of different factors and, most tellingly, that the firms which Christensen labels as failures turn out to be in perfectly good health long after disruptive innovations should have slain them. Seagate continues to be a prosperous firm to this day, US Steel is still the largest producer of steel in the US, and Bucyrus weathered numerous financial downtowns, eventually merging with Caterpillar to the tune of $9 billion. More than that, the theory is simply not predictive: according to Christensen, established firms should find it incredibly difficult to bring disruptive innovations to market, due to the various demands and biases of stakeholders who represent those firms' traditional lines of business. Yet Apple introduced one disruptive innovation after another during the early 2000s, as did Amazon. Moreover, it is devilishly difficult to predict whether a given innovation will turn out to be disruptive, until the drama has played out: witness the fate of Apple's Newton, released to fabulous acclaim only to die an inglorious death shortly after its initial release.
+
+
+
+My own take is that the Innovator's Dilemma presents a compelling description of the rise and fall of technologies (if not industries), with a reasonably descriptive story about how those technologies arrive (or fail to arrive) at market. Clearly, there is something to Christensen's story about disruptive innovations and the reason that startups tend to deliver them better than established incumbents; but equally clearly, this story is incomplete and lacks sufficient predictive power to be readily useful. It's difficult, if not impossible, to determine whether some new technology or entrant firm is likely to become a disrupter which overtakes entrenched incumbents; it's similarly difficult to pro-actively create a disruptive technology which upends an existing industry. The value in Christensen's work is really the identification of disruptive technologies as a concept distinct from sustaining technologies, and moreover the starting point for a theory of how disruptive technologies come to market. But completing that theory is another endeavor altogether.
