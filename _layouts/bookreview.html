@@ -9,19 +9,32 @@
 
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-10 col-lg-offset-1 text-left">
+			<div class="col-sm-1">
+				<div class="bookreview-cover">
+					{% if page.bookcoverimage %}
+						<img src="{{ page.bookcoverimage }}" />
+					{% endif %}
+				</div>
+			</div>
+			<div class="col-lg-10 col-sm-offset-1 text-left">
 
 				<div class="post">
 
-					<header class="post-header">
-						<h1 class="post-title"
+					<header class="bookreview-header">
+						<h1 class="bookreview-title"
 							{% if page.bannerimg %}
 								style="background-image: url({{ page.bannerimg }})"
 							{% endif %}
 							>
+<<<<<<< HEAD
       <div class="title-plate">
 							<span class="title-text">Book Review: {{ page.title }}</span>
       </div>
+=======
+			      	<div class="title-plate">
+								<span class="title-text">Book Review: {{ page.title }}</span>
+      				</div>
+>>>>>>> feature/bookreviews
 						</h1>
 
 						<ul class="text-muted bookmarks">
@@ -33,8 +46,20 @@
 							{% if page.author %} • {{ page.author }}{% endif %}
 							{% if page.meta %} • {{ page.meta }}{% endif %}
 							<br/>Read {{ page.bookstarted | date: "%b %-d, %Y" }} - {{ page.bookfinished | date: "%b %-d, %Y" }}
+<<<<<<< HEAD
 							<br/>{{ page.bookrating }} stars
 	                <i class="fa fa-star"></i>
+=======
+							{% if page.rating %}
+								<br/>
+									{% for i in (1..page.rating) %}
+								    <i class="fa fa-star" aria-hidden="true"></i> 
+									{% endfor %}
+									{% for i in (page.rating..4) %}
+								    <i class="fa fa-star-o" aria-hidden="true"></i> 
+									{% endfor %}
+							{% endif %}
+>>>>>>> feature/bookreviews
 						</p> <!-- /.post-meta -->
 
 						<p class="bookfullimage">
@@ -44,9 +69,18 @@
 
 					<article class="post-content">
 						{{ content }}
+<<<<<<< HEAD
 
 					</article>
 
+=======
+					</article>
+
+					{% if page.reviewurl %}
+						<p><a href="{{ page.reviewurl }}">Review on Goodreads</a></p>
+					{% endif %}
+
+>>>>>>> feature/bookreviews
 				</div> <!-- /.post -->
 
 			</div> <!-- /.col -->
