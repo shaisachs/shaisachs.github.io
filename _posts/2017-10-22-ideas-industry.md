@@ -5,7 +5,7 @@ date: 2017-10-22 13:00
 bookstarted: 2017-10-08
 bookfinished: 2017-10-22
 rating: 3
-bookcoverimage: https://images.gr-assets.com/books/1478684698l/32335738.jpg
+bookcoverimage: https://images.gr-assets.com/books/1478684698m/32335738.jpg
 reviewurl: https://www.goodreads.com/review/show/2147106991
 ---
 
