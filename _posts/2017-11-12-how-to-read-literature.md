@@ -1,0 +1,20 @@
+---
+layout: bookreview
+title: "How to Read Literature Like a Professor"
+date: 2017-11-12 13:00
+bookstarted: 2017-11-02
+bookfinished: 2017-11-12
+rating: 4
+bookcoverimage: https://images.gr-assets.com/books/1438909162m/39933.jpg
+reviewurl: https://www.goodreads.com/review/show/1504082231
+---
+
+I found this book to be a great guide to reading literary fiction. As someone who loves literary fiction, but doesn't have any real training (beyond high school) in literature, I quite appreciated the chance to get what you might call a very brief synopsis of a college-level English class.
+
+For the most part the subjects that Foster touches on are quite straightforward, even to someone without a formal background in literary criticism. The book discusses a handful of common motifs, reviews the main sources of literary allusions, and illustrates a few common symbolic elements. If you're accustomed to reading fiction with a critical eye, you've probably cottoned on to many of these elements yourself - but still it's helpful to get look at them systematically. For anyone who's interested in creative fiction writing, this book is doubly valuable, since it's a useful menu of sorts: here are the kinds of elements which can make a piece of writing more interesting.
+
+I do wish that this book had touched a bit more on naming and structure as elements for interpretation. Foster spends plenty of time analyzing the works of Toni Morrison and James Joyce, so these elements do come up a bit - for example, there's some tangential discussion about the way that each chapter in Ulysses echoes an episode in the Odyssey, a quick look at the quirky naming scheme for characters in Song of Solomon. Still, it'd be nice to have a chapter or two dedicated to these issues, which I think are in some ways both obvious and subtle at the same time.
+
+This book also has a very certain meta-critical opinion, one which is not entirely convincing. Why, Foster asks numerous times, do we even bother with this sort of criticism? Why do authors even bother writing their works in this way? Foster's point of view is that it's just a fun sort of game: if you learn to play by the rules, then you get a certain kind of enjoyment out of the process. That view has a pleasantly democratic angle, which is to say that if you don't play by the rules, the only thing that happens is that you miss out on the game - but you can still enjoy the book on your own terms. That is all well and good, but I think Foster's metacritical viewpoint becomes almost nihilistic, and simply incorrect, at the extremes. For example, while analyzing Going After Cacciato, Foster writes that the allusions to Alice in Wonderland may have just as well been allusions to Lord of the Rings - entirely ignoring how such a choice would have cast Cacciato as a sort of extended comparison between the Vietnam War and World War Two (since World War Two is an important backdrop for Lord of the Rings). My view is that Foster's metacritical perspective is maybe half-right: it's possible to read a work of fiction with relatively little critical engagement, but doing so causes the reader to miss a good deal of the meaning and force of the writing. Relatedly, the elements that writers do, or do not, include in their works are not just so much window-dressing. Instead, these choices are what make a work meaningful. The phrase "cup of trembling" at the end of Sonny's Blues, for example, gives that story a particular meaning - not just recovery, but salvation - which would be lost without that exact set of words. And so the point of literary criticism is not just to play a fun kind of game - but it's to discover meaning in a piece of writing.
+
+I found this book to be a really helpful survey of techniques in literary criticism, and I'm glad I read it. But it would certainly be interesting to hear a slightly different perspective on the value and goal of literary criticsm.
