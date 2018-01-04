@@ -11,7 +11,7 @@ I’ve never been a particularly good gift-giver, so this time of year can be a 
 
 Next year, I’ve resolved, will be different. I’ll put an end to that madness by planning ahead, and brainstorming gift ideas throughout the year, so that when November comes around I just need to go through my list of ideas, pick the items I want to buy, and get out my credit card.
 
-Because I needed a place to track those ideas - and because I’ve been meaning to play around with ASP.NET Core 2 for quite a while - I developed the [Gift Ideas API](https://market.mashape.com/shaisachs/gift-ideas).
+Because I needed a place to track those ideas - and because I’ve been meaning to play around with ASP.NET Core 2 for quite a while - I developed the [Gift Ideas API](https://market.mashape.com/shaisachs/gift-ideas). The code is MIT-licensed, and you can [check it out on Github](https://github.com/shaisachs/giftideas).
 
 The functionality for this API is very simple: it provides basic CRUD features around Holidays, Recipients, and a join of these two resources: Gift Ideas. So for example, I can record ideas like this:
 
