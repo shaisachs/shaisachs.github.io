@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Checlists API: a C# API framework with behavioral tests for the Checklist Manifesto"
+title: "Checlists API: a C# API framework with behavioral tests, inspired by the Checklist Manifesto"
 date: 2018-04-14 13:30
 ---
 
