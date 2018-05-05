@@ -237,7 +237,7 @@ hr.small {
     padding-right: 15px;
 }
 
-.call-to-action #mc_embed_signup .button {
+.call-to-action #mc_embed_signup input {
     color: black;
 }
 
