@@ -224,6 +224,23 @@ hr.small {
     margin: 10px;
 }
 
+.call-to-action #mc_embed_signup {
+    width: 25%;
+    margin: auto;
+}
+
+.call-to-action #mc_embed_signup .mc-field-group {
+    margin-bottom: 10px;
+}
+
+.call-to-action #mc_embed_signup .mc-field-group label {
+    padding-right: 15px;
+}
+
+.call-to-action #mc_embed_signup .button {
+    color: black;
+}
+
 /* Map */
 
 .map {
@@ -308,3 +325,4 @@ ul.bookmarks li {
 footer {
     padding: 100px 0;
 }
+
