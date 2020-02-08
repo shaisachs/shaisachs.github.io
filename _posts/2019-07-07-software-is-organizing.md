@@ -2,11 +2,14 @@
 layout: post
 title: "Software is organizing: What I learned from (almost) a decade in progressive tech"
 date: 2019-07-07 09:45
+excerpt_separator: <!--more-->
 ---
 
 I recently left my job at NGP VAN, where I had been for about 8.5 years. As I've [written before](https://shaisachs.github.io/2019/02/24/leaving-ngp-van.html), it was a wonderful time, and I'm really glad to have been able to contribute to the progressive movement in such a meaningful way. Since leaving I've given a lot of thought to the things I learned there, and what I take away with me. There are all sorts of lessons, large and small, but here's the most important insight by far.
 
 Software is organizing: the two are in some ways very similar pursuits, which have a great deal to learn from one another.
+
+<!--more-->
 
 The best organizing is a blend of listening and leadership, in service of progressive change. The organizer listens to her followers, and unites those followers together in pursuit of a goal that will improve their lives. That same basic process is evident whether you read Letter from Birmingham Jail, Rules for Radicals, or the Audacity of Hope. What is crucial for a successful organizer is the vision to see what that goal is. Just as importantly, the organizer must also have the vocabulary to describe that goal, and to share it with her followers in a way that brings them together. That is why organizers are so often remembered for their oratory: everything from [Ain't I a Woman?](https://www.nps.gov/articles/sojourner-truth.htm) to [Women's rights are human rights](https://www.pbs.org/weta/washingtonweek/web-video/hillary-clinton-declares-womens-rights-are-human-rights) is an example of striking language that breaks through the mold of conventional discourse to paint a picture of something we have not seen before.
 
