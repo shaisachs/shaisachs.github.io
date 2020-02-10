@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 title:  "Semantically meaningful SDKs"
 bannerimg:
 photographer:

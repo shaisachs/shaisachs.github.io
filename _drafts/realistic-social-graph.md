@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 title: A more realistic probabilistic graph
 date: 
 bannerimg: /img/posts/friends.jpeg

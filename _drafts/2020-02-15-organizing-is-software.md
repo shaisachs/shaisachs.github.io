@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 title: "Organizing is software: in which the mathematical model of politics gets its due"
 date: 2020-02-15 09:45
 ---
