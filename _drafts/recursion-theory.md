@@ -1,4 +1,6 @@
-
+---
+layout: draft
+---
 
 One of the most profound and elegant concepts in modern mathematics is that of the arithmetic hierarchy. It has dramatically affected the way computer scientists think about programming. What is even more interesting to me is that I think it can be a helpful tool in writing fiction, and that is an idea I've started to explore recently.
 

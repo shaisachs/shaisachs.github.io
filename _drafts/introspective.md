@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 title: The introspective api
 ---
 
