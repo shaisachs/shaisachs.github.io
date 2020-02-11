@@ -1,12 +1,12 @@
 ---
 layout: bookreview
-title: The Blessing of a Skinned Knee
+title: "The Blessing of a Skinned Knee: Using Jewish Teachings to Raise Self-Reliant Children"
 date: 2019-02-21 13:00
 bookstarted: 2019-02-11
 bookfinished: 2019-02-21
-bookrating: 3
-bookfullimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309286607l/537661._SX98_.jpg
-booksmallimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309286607l/537661._SY75_.jpg
+rating: 3
+bookcoverimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309286607l/537661._SX98_.jpg
+reviewurl: https://www.goodreads.com/review/show/2711973149
 ---
 
 This book has an interesting perspective on modern parenting. It attempts to reframe modern parenting dilemmas in light of traditional Jewish teachings on moderation, sanctification, and celebration. The focus is squarely on the problems of upper-middle class families raising elementary school children, and the book takes aim at the practice of helicopter parenting again and again.

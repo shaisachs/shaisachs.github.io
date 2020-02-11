@@ -1,12 +1,12 @@
 ---
 layout: bookreview
-title: The Code Economy
+title: "The Code Economy: A Forty-Thousand Year History"
 date: 2019-02-20 13:00
 bookstarted: 2019-01-13
 bookfinished: 2019-02-20
-bookrating: 3
-bookfullimage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
-booksmallimage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+rating: 3
+bookcoverimage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+reviewurl: https://www.goodreads.com/review/show/2587735782
 ---
 
 The Code Economy is a book about the economic history of code, conceived broadly. To Phillip Auerswald, code is an generic term for any process, series of instructions, or algorithm - as well as any set of regulations, rules, or other heuristics by which behavior (of machines or people) should be governed. The question this book poses is, what does the history of code have to teach us about its past economic behavior, and what can it illuminate about the future of code and the broader economy?

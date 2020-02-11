@@ -1,12 +1,12 @@
 ---
 layout: bookreview
-title: Changing Your Company from the Inside Out
+title: "Changing Your Company from the Inside Out: A Guide for Social Intrapreneurs"
 date: 2018-12-28 13:00
 bookstarted: 2018-11-25
 bookfinished: 2018-12-28
-bookrating: 3
-bookfullimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408469813l/22750284._SX98_.jpg
-booksmallimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408469813l/22750284._SY75_.jpg
+rating: 3
+bookcoverimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408469813l/22750284._SX98_.jpg
+reviewurl: https://www.goodreads.com/review/show/2606418980
 ---
 
 This book is something of a how-to guide for corporate reformers. It draws inspiration heavily from the study of social movements, which is a natural-enough foundation. Corporate reform has become an increasingly important component of a wide range of social movements in the past few decades, so it stands to reason that the strategies employed by broader social movements should be useful to in-house reformers. To that end the authors draw heavily from social reformers: the idea is to identify the right opportunity for reform, the right individuals to target in making one's case, the business rationale for reform, and the right "platforms" for organizing around reform. It's a reasonably good guide, and the "when" section shines most brightly, since it nicely highlights the role that major new initiatives, product lines, and reorganizations play in possibly unrelated reforms.

@@ -1,12 +1,12 @@
 ---
 layout: bookreview
-title: The Leavers
+title: "The Leavers"
 date: 2018-12-28 13:00
 bookstarted: 2018-11-28
 bookfinished: 2018-12-28
-bookrating: 3
-bookfullimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489158974l/30753987._SX98_.jpg
-booksmallimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489158974l/30753987._SY75_.jpg
+rating: 3
+bookcoverimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489158974l/30753987._SX98_.jpg
+reviewurl: https://www.goodreads.com/review/show/2608840075
 ---
 
 The Leavers is a modern epic about the intertwining of Chinese and American society. The story is told through the voices of a Chinese immigrant to the United States, Peilan Guo, and her son Deming. When Peilan becomes pregnant as a teenager, with a man she doesn't want to marry, she flees China in search of the freedom of New York City. Though she intends to terminate her pregnancy, she winds up waiting too long, and gives birth to Deming, taking care of him as best she can as a single woman earning poverty wages. Under mysterious circumstances Peilan disappears from his life, and Deming eventually winds up in an adoptive home in upstate New York, living out his teenage years with two college professors under circumstances starkly different from his childhood.
