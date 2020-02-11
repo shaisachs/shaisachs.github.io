@@ -1,6 +1,6 @@
 ---
 layout: bookreview
-title: Siblings Without Rivalry: How to Help Your Children Live Together So You Can Live Too
+title: Siblings Without Rivalry
 date: 2019-12-30 13:00
 bookstarted: 2019-09-04
 bookfinished: 2019-12-30
