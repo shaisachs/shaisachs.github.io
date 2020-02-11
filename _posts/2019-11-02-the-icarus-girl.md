@@ -1,12 +1,12 @@
 ---
 layout: bookreview
-title: The Icarus Girl
+title: "The Icarus Girl"
 date: 2019-11-02 13:00
 bookstarted: 2019-04-16
 bookfinished: 2019-11-02
-bookrating: 3
-bookfullimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320554010l/139724._SX98_.jpg
-booksmallimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320554010l/139724._SY75_.jpg
+rating: 3
+bookcoverimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320554010l/139724._SX98_.jpg
+reviewurl: https://www.goodreads.com/review/show/2788823795
 ---
 
 Icarus Girl is the story of a British girl named Jessamy who visits her extended family in Nigeria, and returns with a rather shadowy problem. That problem is a big question mark: a girl who might be a ghost, or might be a figment of Jessamy's imagination, or might be something else entirely. She is something of a doppelganger for Jessamy, and a nebulously malicious one at that; suitably, Jessamy gives her a nickname that is itself a double, TillyTilly.

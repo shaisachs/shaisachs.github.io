@@ -1,12 +1,12 @@
 ---
 layout: bookreview
-title: Unsheltered
+title: "Unsheltered"
 date: 2020-01-03 13:00
 bookstarted: 2019-12-12
 bookfinished: 2020-01-03
-bookrating: 3
-bookfullimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539624556l/37959904._SX98_.jpg
-booksmallimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539624556l/37959904._SX50_.jpg
+rating: 3
+bookcoverimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539624556l/37959904._SX98_.jpg
+reviewurl: https://www.goodreads.com/review/show/3081825997
 ---
 
 Unsheltered is a book about two people, separated by a hundred years or so, who live in the same house in Vineland, New Jersey. The contemporary story follows Willa Knox, a downsized journalist, as she navigates financial difficulty, political turmoil, and a whole series of family crises. The parallel story follows Thatcher Greenwood, a teacher at the newly established high school in the meticulously planned community that is late-nineteenth century Vineland.

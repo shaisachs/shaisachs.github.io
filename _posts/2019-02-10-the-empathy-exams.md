@@ -1,12 +1,12 @@
 ---
 layout: bookreview
-title: The Empathy Exams
+title: "The Empathy Exams"
 date: 2019-02-10 13:00
 bookstarted: 2019-01-09
 bookfinished: 2019-02-10
-bookrating: 2
-bookfullimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405924561l/17934655._SX98_.jpg
-booksmallimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405924561l/17934655._SX50_.jpg
+rating: 2
+bookcoverimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405924561l/17934655._SX98_.jpg
+reviewurl: https://www.goodreads.com/review/show/2665943456
 ---
 
 The Empathy Exams is a series of short creative memoirs by Leslie Jamison. They begin with a look at the author's stint as a medical actor, proceed through a series of essays about her travels in Latin America, and go on to cover assorted topics from the Barkley Marathon to a critique of female pain and its place in Western culture.

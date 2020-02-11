@@ -1,12 +1,12 @@
 ---
 layout: bookreview
-title: A Visit from the Goon Squad
+title: "A Visit from the Goon Squad"
 date: 2019-11-04 13:00
 bookstarted: 2019-05-22
 bookfinished: 2019-11-04
-bookrating: 4
-bookfullimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356844046l/7331435._SX98_.jpg
-booksmallimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356844046l/7331435._SX50_.jpg
+rating: 4
+bookcoverimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356844046l/7331435._SX98_.jpg
+reviewurl: https://www.goodreads.com/review/show/2135799594
 ---
 
 A surprisingly powerful book that starts out a little oddly, Visit from the goon squad is one of the most fascinating, but perhaps most sobering, fictional take on where we are at the turn of the 21st century, and where we're going.
