@@ -9,9 +9,9 @@ title:  "Blog Archive"
 
 <section id="archive">
   <h3>This year's posts</h3>
-  {% assign bookreviews = site.posts | where:'layout', 'post' %}
+  {% assign blogposts = site.posts | where:'layout', 'post' %}
 
-  {%for post in bookreviews %}
+  {%for post in blogposts %}
     {% unless post.next %}
       <ul class="this">
     {% else %}
