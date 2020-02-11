@@ -1,6 +1,6 @@
 ---
 layout: bookreview
-title: No-Drama Discipline: The Whole-Brain Way to Calm the Chaos and Nurture Your Child's Developing Mind
+title: No-Drama Discipline
 date: 2019-06-07 13:00
 bookstarted: 2019-03-08
 bookfinished: 2019-06-07
