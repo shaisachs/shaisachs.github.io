@@ -1,6 +1,6 @@
 ---
 layout: bookreview
-title: The Blessing of a Skinned Knee: Using Jewish Teachings to Raise Self-Reliant Children
+title: The Blessing of a Skinned Knee
 date: 2019-02-21 13:00
 bookstarted: 2019-02-11
 bookfinished: 2019-02-21

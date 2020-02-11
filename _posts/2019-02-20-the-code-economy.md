@@ -1,6 +1,6 @@
 ---
 layout: bookreview
-title: The Code Economy: A Forty-Thousand Year History
+title: The Code Economy
 date: 2019-02-20 13:00
 bookstarted: 2019-01-13
 bookfinished: 2019-02-20

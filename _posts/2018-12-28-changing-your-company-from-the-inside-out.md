@@ -1,6 +1,6 @@
 ---
 layout: bookreview
-title: Changing Your Company from the Inside Out: A Guide for Social Intrapreneurs
+title: Changing Your Company from the Inside Out
 date: 2018-12-28 13:00
 bookstarted: 2018-11-25
 bookfinished: 2018-12-28
