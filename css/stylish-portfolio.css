@@ -326,7 +326,7 @@ footer {
     padding: 100px 0;
 }
 
-section.projects .project a {
+#projects p.project-desc a {
   color: white;
   text-decoration: underline;
 }
