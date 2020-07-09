@@ -2,7 +2,7 @@
 layout: project
 title: "NGP VAN Innovation Platform"
 date: 2018-12-31 13:00
-url: https://developers.ngpvan.com/
+link: https://developers.ngpvan.com/
 icon: compass
 weight: 2
 ---
