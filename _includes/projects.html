@@ -8,7 +8,7 @@
 
 
         <div class="row">
-        {% assign projects = (site.posts | where:'layout', 'project') | sort:'order' %}
+        {% assign projects = (site.posts | where:'layout', 'project') | sort:"weight" %}
 
         {% for project in projects | limit:6 %}        
           <div class="col-md-4 col-sm-6">
