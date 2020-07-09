@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: archivedproject
 title: "Cambridge book club"
 date: 2013-09-01 13:00
 url: https://www.meetup.com/Book-Club-for-Heartbreaking-Geniuses-and-Those-Who-Love-Them/

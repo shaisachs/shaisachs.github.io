@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: archivedproject
 title: "Boston Drinking Liberally"
 date: 2004-09-01 13:00
 url: https://www.facebook.com/groups/2227792420/
