@@ -2,7 +2,7 @@
 layout: archivedproject
 title: "Boston Drinking Liberally"
 date: 2004-09-01 13:00
-url: https://www.facebook.com/groups/2227792420/
+link: https://www.facebook.com/groups/2227792420/
 icon: glass
 weight: 0
 ---

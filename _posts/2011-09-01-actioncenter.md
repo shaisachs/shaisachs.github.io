@@ -2,7 +2,7 @@
 layout: project
 title: "ActionCenter"
 date: 2011-09-01 13:00
-url: https://act.ngpvan.com/action-center
+link: https://act.ngpvan.com/action-center
 icon: shield
 weight: 4
 ---

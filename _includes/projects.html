@@ -21,8 +21,8 @@
                 <strong>{{ project.title }}</strong>
               </h4>
               <p class="project-desc">{{ project.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-              {% if project.url %}
-                <a href="{{ project.url }}" class="btn btn-light">Learn More</a>
+              {% if project.link %}
+                <a href="{{ project.link }}" class="btn btn-light">Learn More</a>
               {% endif %}
             </div>
           </div>

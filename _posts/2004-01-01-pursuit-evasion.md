@@ -2,7 +2,7 @@
 layout: project
 title: "Visibility-Based Pursuit-Evasion in an Unknown Planar Environment"
 date: 2004-01-01 13:00
-url: https://journals.sagepub.com/doi/abs/10.1177/0278364904039610
+link: https://journals.sagepub.com/doi/abs/10.1177/0278364904039610
 icon: cog
 weight: 5
 ---
