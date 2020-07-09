@@ -11,7 +11,7 @@
         {% assign projects = (site.posts | where:'layout', 'project') | sort:"weight" %}
 
         {% for project in projects | limit:6 %}        
-          <div class="col-md-4 col-sm-6">
+          <div class="col-md-4 col-sm-6"> <!-- {{ project.weight }} -->
             <div class="service-item">
               <span class="fa-stack fa-4x">
                 <i class="fa fa-circle fa-stack-2x"></i>
