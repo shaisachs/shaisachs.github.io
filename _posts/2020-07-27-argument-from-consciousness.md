@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Irreducible informality"
+title: "The Argument from Tautology"
 date: 2020-07-27 13:00
 excerpt_separator: <!--more-->
 ---
