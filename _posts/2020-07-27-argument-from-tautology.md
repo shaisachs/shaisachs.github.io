@@ -3,6 +3,9 @@ layout: post
 title: "The Argument from Tautology"
 date: 2020-07-27 13:00
 excerpt_separator: <!--more-->
+bannerimg: /img/posts/dictionary.jpg
+photographer: Tamara Menzi
+photographerurl: https://unsplash.com/@itstamaramenzi
 ---
 
 The Stanford Encyclopedia of Philosophy does a fine job summarizing the [Turing Test](https://plato.stanford.edu/entries/turing-test/) and the quite rigorous debate it's enjoyed in 70-some years of life. The writing makes pretenses towards formalism that I quite like - it's not really up to the rigor of a mathematical paper, nor is it so excessively informal as to be frivolous. I appreciate this entry as a fine way to navigate the thought landscape surrounding this concept. Indeed, I've had some thoughts much in line with arguments 2.3 and 2.4, to say nothing of 2.6 (Lady Lovelace's Objection) which I consider something of the final word on the matter. This kind of summary is more than just a few minutes of entertaining reading, because the problem of consciousness has rapidly become a more and more vital matter of public debate. Questions like "what are the rights and responsibilities of an artificially intelligent system?" already loom large as applied to social media ranking algorithms, self-driven cars, warehouse robots, and any number of other systems that fall into this rather broad category. How do we think about these systems? Are they conscious entities and therefore deserving of the same rights and responsibilities as human beings? For my part I think the answer is no, and I hope to add an objection to the rather fine list compiled in this encyclopedia entry: The Argument from Tautology.
