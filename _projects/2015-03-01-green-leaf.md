@@ -1,7 +1,6 @@
 ---
-layout: archivedproject
 title: "Green Leaf"
-date: 2015-03-01 13:00
+date: 2015-03-01
 icon: book
 weight: 0
 category: writing
