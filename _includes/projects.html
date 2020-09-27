@@ -9,7 +9,7 @@
         <div class="row">
 
         {% assign projectcount = 0 %}
-        {% assign projects = site.projects | sort:"weight" | reverse | limit:6 %}
+        {% assign projects = site.projects | where:"featured", "1" | sort:"weight" | reverse | limit:6 %}
         {% for project in projects %}
           <div class="col-md-4 col-sm-6 service-item-container">
             <div class="service-item">

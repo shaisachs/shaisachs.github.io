@@ -5,6 +5,7 @@ link: https://developers.ngpvan.com/
 icon: compass
 category: career
 weight: 8
+featured: 1
 ---
 
 As the Innovation Platform Director at NGP VAN, I managed our documentation and was the primary support person for API developers. I also guided our teams in designing APIs and oversee strategy for our API.
