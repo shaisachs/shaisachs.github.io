@@ -8,10 +8,10 @@
 
 
         <div class="row">
-        {% assign projects = (site.posts | where:'layout', 'project') | sort:"weight" %}
 
-        {% for project in projects | limit:6 %}        
-          <div class="col-md-4 col-sm-6"> <!-- {{ project.weight }} -->
+        {% assign projectcount = 0 %}
+        {% for project in site.projects | limit:6 %}
+          <div class="col-md-4 col-sm-6 service-item-container">
             <div class="service-item">
               <span class="fa-stack fa-4x">
                 <i class="fa fa-circle fa-stack-2x"></i>
@@ -24,10 +24,12 @@
               {% if project.link %}
                 <a href="{{ project.link }}" class="btn btn-light">Learn More</a>
               {% endif %}
-            </div>
-          </div>
+            </div> <!-- /.service-item -->
+          </div> <!-- /.service-item-container -->
 
-          {% if project.weight == 3 %}
+          {% assign projectcount = projectcount | plus: 1 %}
+
+          {% if projectcount == 3 %}
         </div>
         <!-- /.row (nested) -->
         
@@ -38,6 +40,10 @@
         </div>
         <!-- /.row (nested) -->
                 
+        <p class="archive-link">
+          <a href="{{ "/projects-archive.html" | prepend: site.baseurl }}">archive</a>
+        </p>
+
       </div>
       <!-- /.col-lg-10 -->
     </div>
