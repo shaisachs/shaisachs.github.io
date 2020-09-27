@@ -2,7 +2,6 @@
 title: "Wayfair Pricing Engine"
 date: 2019-02-04
 icon: usd
-weight: 1
 link: https://www.wayfair.com
 category: career
 ---

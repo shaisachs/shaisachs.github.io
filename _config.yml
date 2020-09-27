@@ -24,3 +24,9 @@ markdown: kramdown
 collections:
   projects:
     order:
+      - 2019-02-04-wayfair-pricing.md
+      - 2018-12-31-ngpvan-innovation-platform.md
+      - 2014-06-05-openvpb.md
+      - 2011-09-01-actioncenter.md
+      - 2004-01-01-pursuit-evasion.md
+      - 2018-05-08-the-menu.md

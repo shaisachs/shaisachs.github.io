@@ -3,7 +3,6 @@ title: "ActionCenter"
 date: 2011-09-01
 link: https://act.ngpvan.com/action-center
 icon: shield
-weight: 4
 category: career
 ---
 

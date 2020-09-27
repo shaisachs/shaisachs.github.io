@@ -326,7 +326,8 @@ footer {
     padding: 100px 0;
 }
 
-#projects p.project-desc a {
+#projects p.project-desc a,
+#projects p.archive-link a {
   color: white;
   text-decoration: underline;
 }
