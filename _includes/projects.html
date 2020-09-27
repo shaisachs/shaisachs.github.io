@@ -6,11 +6,11 @@
         <h2>Projects</h2>
         <hr class="small">
 
-
         <div class="row">
 
         {% assign projectcount = 0 %}
-        {% for project in site.projects | sort:"weight" | reverse | limit:6 %}
+        {% assign projects = site.projects | sort:"weight" | reverse | limit:6 %}
+        {% for project in projects %}
           <div class="col-md-4 col-sm-6 service-item-container">
             <div class="service-item">
               <span class="fa-stack fa-4x">
@@ -24,6 +24,7 @@
               {% if project.link %}
                 <a href="{{ project.link }}" class="btn btn-light">Learn More</a>
               {% endif %}
+              <!-- weight {{ project.weight }} -->
             </div> <!-- /.service-item -->
           </div> <!-- /.service-item-container -->
 
