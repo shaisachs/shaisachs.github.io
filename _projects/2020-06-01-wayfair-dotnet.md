@@ -1,10 +1,10 @@
 ---
 title: "Wayfair .NET Working Group"
 date: 2020-06-01
-icon: usd
+icon: terminal
 link: https://www.wayfair.com
 category: career
-weight: 80
+weight: 70
 featured: 1
 ---
 

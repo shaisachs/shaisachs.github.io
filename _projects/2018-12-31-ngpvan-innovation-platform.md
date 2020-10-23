@@ -4,7 +4,7 @@ date: 2018-12-31
 link: https://developers.ngpvan.com/
 icon: compass
 category: career
-weight: 70
+weight: 60
 featured: 1
 ---
 

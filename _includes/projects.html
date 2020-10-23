@@ -29,13 +29,15 @@
           </div> <!-- /.service-item-container -->
 
           {% assign projectcount = projectcount | plus: 1 %}
+          {% assign needsbreak = projectcount | modulo: 3 %}
 
-          {% if projectcount == 3 %}
+          {% if needsbreak == 0 %}
         </div>
         <!-- /.row (nested) -->
         
         <div class="row">
           {% endif %}
+
         {% endfor %}
 
         </div>
