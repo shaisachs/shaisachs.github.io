@@ -1,5 +1,6 @@
 # Site settings
 title: Shai Sachs
+author: Shai Sachs
 email:
 description: > # this means to ignore newlines until "baseurl:"
   Personal website for Shai Sachs. Includes blog posts, book reviews, and projects.

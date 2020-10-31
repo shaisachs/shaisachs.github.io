@@ -2,7 +2,7 @@
 title: "How to get involved in progressive tech"
 date: 2020-10-29
 link: https://shaisachs.gitbook.io/progressive-tech-book/ 
-category: other
+category: progressive_tech
 icon: book
 weight: 20
 featured: 1

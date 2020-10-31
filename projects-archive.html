@@ -7,78 +7,39 @@ title: "Projects Archive"
   <li>&#10146; <a href="/">Home</a></li>
 </ul>
 
-{% assign projects = site.projects | where:'category', 'career' %}
-<section id="archive">
-  <h2>Career</h2>
+{% assign projectgroups = site.projects | group_by:"category" %}
+{% assign cats = "career,progressive_tech,writing,other" | split: "," %}
+
+{% for cat in cats %}
+  {% assign projectgroup = false %}
+  {% for group in projectgroups %}
+    {% if group.name == cat %}
+      {% assign projectgroup = group %}
+    {% endif %}
+  {% endfor %}
+
+<section class="projects_group">
+
+  <h2>{{ projectgroup.name | replace: "_", " " | capitalize }}</h2>
   <ul class="this">
-  {%for project in projects %}
+  {% for project in projectgroup.items %}
       <li><time>{{ project.date | date:"%B %Y" }}</time>: 
 
-      	{% if project.link %}
-      		<a href="{{ project.link }}">
-      	{% endif %}
+        {% if project.link %}
+          <a href="{{ project.link }}">
+        {% endif %}
 
-      	{{ project.title }}
+        {{ project.title }}
 
-      	{% if project.link %}
-      		</a>
-      	{% endif %}
+        {% if project.link %}
+          </a>
+        {% endif %}
 
-      	-
+        -
 
-      	{{ project.content | remove: '<p>' | remove: '</p>' }}
+        {{ project.content | remove: '<p>' | remove: '</p>' }}
       </li>
   {% endfor %}
   </ul>
-
-{% assign projects = site.projects | where:'category', 'writing' %}
-
-<section id="archive">
-  <h2>Writing</h2>
-  <ul class="this">
-  {%for project in projects %}
-      <li><time>{{ project.date | date:"%B %Y" }}</time>: 
-
-      	{% if project.link %}
-      		<a href="{{ project.link }}">
-      	{% endif %}
-
-      	{{ project.title }}
-
-      	{% if project.link %}
-      		</a>
-      	{% endif %}
-
-      	-
-
-      	{{ project.content | remove: '<p>' | remove: '</p>' }}
-      </li>
-  {% endfor %}
-  </ul>
-
 </section>
-
-{% assign projects = site.projects | where:'category', 'other' %}
-
-<section id="archive">
-  <h2>Other</h2>
-  <ul class="this">
-  {%for project in projects %}
-      <li><time>{{ project.date | date:"%B %Y" }}</time>: 
-
-      	{% if project.link %}
-      		<a href="{{ project.link }}">
-      	{% endif %}
-
-      	{{ project.title }}
-
-      	{% if project.link %}
-      		</a>
-      	{% endif %}
-
-      	-
-
-      	{{ project.content | remove: '<p>' | remove: '</p>' }}
-      </li>
-  {% endfor %}
-  </ul>
+{% endfor %}
