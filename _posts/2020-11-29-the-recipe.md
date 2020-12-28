@@ -8,7 +8,7 @@ photographer: Aidana Khabdesh
 photographerurl: https://unsplash.com/@aidanaesthete
 ---
 
-I've just dried the ink on my latest short story - [The Recipe](https://shaisachs.gitbook.io/the-recipe/).
+I've just dried the ink on my latest short story - [The Recipe](https://www.amazon.com/Recipe-Shai-Sachs-ebook/dp/B08RBLN1YP).
 
 <!--more-->
 
@@ -18,4 +18,4 @@ For this story, I set out to explore [Lady Lovelace's Objection](https://plato.s
 
 At the same time, I wanted to explore the epistolary format - it's a form of storytelling which I've always admired but have never quite attempted. And I wanted to have another go at the genre I had tried out two years ago, [techno-magical realism](https://shaisachs.github.io/2018/05/05/the-menu.html). I actually went and wrote a whole appendix explaining my writing process, and the thought behind the story, in some detail - mainly because it seemed the only fair thing to do for the poor reader.
 
-I'm not sure it was my most successful effort ever. Poor old Lady Lovelace's idea got rather bungled up. But I really enjoyed it anyway. If all goes well I'm going to try and brush it up and publish it as a Kindle single, as I did with my previous story. If you have any interest in helping me to review it, I'd certainly appreciate it! In the meantime, I'm happy to step back and enjoy the accomplishment, for the time being.
+I'm not sure it was my most successful effort ever. Poor old Lady Lovelace's idea got rather bungled up. But I really enjoyed it anyway. It's available on [Kindle](https://www.amazon.com/Recipe-Shai-Sachs-ebook/dp/B08RBLN1YP), but you can also [read it on GitBook](https://shaisachs.gitbook.io/the-recipe/) or [suggest changes on Github](https://github.com/shaisachs/the-recipe/). If you have suggestions, I'm certainly happy to hear feedback! In the meantime, I'm happy to step back and enjoy the accomplishment, for the time being.
