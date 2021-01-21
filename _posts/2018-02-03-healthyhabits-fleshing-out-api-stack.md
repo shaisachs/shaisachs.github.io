@@ -6,7 +6,7 @@ date: 2018-02-03 13:30
 
 I'm a big fan of the idea that the journey of a thousand miles begins with a single step. That makes me something of a sucker for new year's resolutions, particularly those of the "do something small every day" variety. So this month, I put together an API to help me keep track of healthy habits - things like go to the gym every day, get to bed early, take a walk, and so on.
 
-The goal of this API is to build on the abstraction work in the [Gift Ideas API](https://shaisachs.github.io/2018/01/03/gift-ideas-crud-aspnet-core2-rapidapi.html). In particular, I wanted to extend the framework I had started there to encompass what I think of as a full API stack. The full API stack includes the following concerns:
+The goal of this API is to build on the abstraction work in the [Gift Ideas API](https://shaisachs.com/2018/01/03/gift-ideas-crud-aspnet-core2-rapidapi.html). In particular, I wanted to extend the framework I had started there to encompass what I think of as a full API stack. The full API stack includes the following concerns:
 
 * **Documentation**: Providing documentation about available verbs and routes, preferably via OpenAPI spec.
 * **Authentication and Authorization**: Identifying the client and verifying that the client may access the desired resource and verb.
@@ -23,7 +23,7 @@ In order to separate these concerns, the framework has evolved to include seven 
 4. Repositories, which persist those business objects at the request of services.
 5. Controllers, which orchestrate the interaction amongst each of these classes.
 
-The documentation and authentication/authorization concerns were taken care of suitably in the [Gift Ideas API](https://shaisachs.github.io/2018/01/03/gift-ideas-crud-aspnet-core2-rapidapi.html). The former is achieved nicely via a Swashbuckle integration, and the latter requires a tiny bit of code to read and verify custom headers from the RapidAPI marketplace.
+The documentation and authentication/authorization concerns were taken care of suitably in the [Gift Ideas API](https://shaisachs.com/2018/01/03/gift-ideas-crud-aspnet-core2-rapidapi.html). The former is achieved nicely via a Swashbuckle integration, and the latter requires a tiny bit of code to read and verify custom headers from the RapidAPI marketplace.
 
 Once again I've kept the data model extremely simple, because I wanted to focus on the framework more than the particulars of the domain logic. And in any case that domain logic is pretty simple by nature. Clients can create Habits (such as "take a walk") and can then create Habit Completions for a Habit, indicating a date when a habit was completed (for example, "I took a walk on March 4th.") Full CRUD operations are available on both resources, but there is some simple validation logic included: habit names are limited in length, habit completion dates may not be in the future, and habit completions may not change the habit to which they are associated on an update.
 
