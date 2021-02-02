@@ -2,6 +2,10 @@
 title: "The Recipe"
 date: 2020-05-01
 category: writing
+weight: 10
+featured: 1
+link: https://www.amazon.com/Recipe-Shai-Sachs-ebook/dp/B08RBLN1YP
+icon: book
 ---
 
-A short story I've been working on in the back of my head. It imagines a modern-day exchange of letters between Ada Lovelace and Alan Turing. Only in my formulation, the two are siblings trying to remember a long-lost family recipe. Naturally, the Turing test and Lady Lovelace's Objection are key themes in the background.
+A short story I wrote to explore Lady Lovelace's Objection, furthering my exploration of [techno-magical realism through the epistolary format](https://shaisachs.com/2020/11/29/the-recipe.html). It imagines a modern-day exchange of letters between Ada Lovelace and Alan Turing. Chocolate chip cookies feature prominently, what else could you want?
