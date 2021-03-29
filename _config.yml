@@ -23,4 +23,7 @@ google_api_key:
 markdown: kramdown
 
 collections:
-  - projects
+  projects:
+    output: false
+  bookreviews:
+    output: true
