@@ -6,6 +6,7 @@ excerpt_separator: <!--more-->
 bannerimg: /img/posts/recycling.jpg
 photographer: Anna Auza
 photographerurl: https://unsplash.com/@annaauza
+tags: progressivetech
 ---
 
 If there's one idea that crystallizes the magic of computer science, it's reductions. Classically, in the study of complexity theory, we can demonstrate algorithms which transform a solution for one problem into the solution for another problem. We say that the algorithm reduces the second problem to an instance of the first. Hence if there is a general-purpose solution to the first problem, then we get a general-purpose solution to the second "for free." Perhaps most famously, this insight is the foundation of the definition of NP-completeness, though it's useful in many contexts. In more practical contexts, at every level we try to write software that is general-purpose in nature and which lends itself to reuse: that goes for humble functions, APIs looking to prove themselves, and behemoth applications like Excel.

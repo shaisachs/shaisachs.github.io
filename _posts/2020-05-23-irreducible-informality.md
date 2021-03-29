@@ -3,6 +3,7 @@ layout: post
 title: "Irreducible informality"
 date: 2020-05-23 09:00
 excerpt_separator: <!--more-->
+tags: architecture
 ---
 
 Software is difficult, that's no surprise. But why? Einar W. Høst offers an [excellent critique](https://einarwh.wordpress.com/2020/05/19/into-the-tar-pit/) which is so common-sense as to be nearly tautological. Software is difficult not because the problem it's trying to solve is difficult, but because "the problem" is poorly defined and understood very differently by different people.

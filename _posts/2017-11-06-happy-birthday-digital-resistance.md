@@ -5,6 +5,7 @@ date:   2017-11-06 20:30
 bannerimg: /img/posts/birthday.jpg
 photographer: Nikhita Singhal
 photographerurl: https://unsplash.com/@nikhita
+tags: progressivetech
 ---
 
 The resistance will be digitized.. but by whom?

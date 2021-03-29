@@ -3,6 +3,7 @@ layout: post
 title: "What software, literature, and progressive organizing have in common"
 date: 2020-07-03 13:00
 excerpt_separator: <!--more-->
+tags: progressivetech, architecture
 ---
 
 A hell-raising labor activist fires up the crowd, spurring a group of employees on to victory in a union election. A writer tweaks and polishes the first few paragraphs of a novel destined for the bestseller lists. A software architect spins up a web of microservices, load balancers, and databases on the canvass of a dry-erase board. What are all these people doing? It's simple: abstraction.

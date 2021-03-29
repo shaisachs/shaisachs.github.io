@@ -5,6 +5,7 @@ date:   2017-10-19 21:00
 bannerimg: /img/posts/activism.jpg
 photographer: Roya Ann Miller
 photographerurl: https://unsplash.com/@royaannmiller
+tags: progressivetech
 ---
 
 [NewFounders](http://www.riseparty.org/), formerly known as Rise Party, held its first annual conference yesterday. Addressing anyone who wants to "reshape the future of politics in America," the one-day confab in Chicago was the unofficial, slightly early, tech-drenched birthday party for the Resistance. All that was missing was the great big cake.

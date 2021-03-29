@@ -5,6 +5,7 @@ date:   2017-01-30 19:30
 bannerimg: /img/posts/books.jpg
 photographer: Annie Spratt
 photographerurl: https://unsplash.com/@anniespratt
+tags: api, goodreads
 ---
 
 I started playing around with the [Goodreads API](https://www.goodreads.com/api) recently. It's quite a lot of fun, and a [snappy Python library](https://github.com/sefakilic/goodreads) keeps time-to-first-hello-world nice and low.

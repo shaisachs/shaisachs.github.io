@@ -3,6 +3,7 @@ layout: post
 title: "Kishōtenketsu"
 date: 2021-01-09 19:00
 excerpt_separator: <!--more-->
+tags: prose, sideproject
 ---
 
 I can't remember how I first came across it, but [kishōtenketsu](https://stilleatingoranges.tumblr.com/post/25153960313/the-significance-of-plot-without-conflict) has fascinated me for a long time. I hope to try it out soon.

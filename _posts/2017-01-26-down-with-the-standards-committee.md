@@ -5,6 +5,7 @@ date:   2017-01-26 19:00
 bannerimg: /img/posts/meeting.jpg
 photographer: Charles Forerunner
 photographerurl: https://unsplash.com/@charles_forerunner
+tags: api, architecture
 ---
 
 
@@ -18,7 +19,7 @@ One of the most important functions of the standards committee is to prevent bre
 
 The best approach here, which is fairly well-used, is to write automated tests which detect breaking changes, and to gate releases on these tests. This approach is more expensive at the margins, but much more effective than human review. As a bonus it can help catch regressions in your front end or other key services, to the degree that those services share common code paths with your API.
 
-## Publish api standards
+## Publish API standards
 
 An important, but by no means sufficient, measure is to publish your API standards internally, and to update them as new questions arise.
 

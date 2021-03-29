@@ -2,6 +2,7 @@
 layout: post
 title: "Leaving NGP VAN"
 date: 2019-02-24 09:45
+tags: career, progressivetech
 ---
 
 A few weeks ago, I left NGP VAN. After eight and a half years working at the leading technology provider for Democratic candidates and allied groups, I finally decided to move on to another gig. I'm now a software architect working at Wayfair.

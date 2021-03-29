@@ -5,6 +5,7 @@ date: 2017-08-09 11:00
 bannerimg: /img/posts/activism.jpg
 photographer: Roya Ann Miller
 photographerurl: https://unsplash.com/@royaannmiller
+tags: progressivetech, netroots
 ---
 
 Tomorrow, I'll be presenting a training on [Coding as Activism](http://www.netrootsnation.org/nn_events/nn-17/coding-as-activism-how-to-write-apps-with-ngp-and-van/) at Netroots Nation, together with my colleague Sandy Gani. This training will give attendees an up-front look at the [NGP VAN API](https://developers.ngpvan.com/), with a deep dive into the services which are used most broadly by apps and websites in every corner of the progressive movement. You couldn't ask for a better introduction to the building blocks of progressive political technology, so if you're in Atlanta, I certainly hope you join us!

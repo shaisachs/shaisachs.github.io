@@ -2,6 +2,7 @@
 layout: post
 title: "MusicFest - a static, structured-data API inspired by Porchfest"
 date: 2018-05-26 12:30
+tags: api, sideproject
 ---
 
 This month I put together [Music Fest](https://github.com/shaisachs/musicfest) - a static API, integrated with Schema.org, for a music festival. The API is inspired by Somerville Porchfest, an annual community event in Somerville, MA. The idea is that bands perform on front porches and lawns throughout the city, and residents wander from house to house to listen in. The whole thing is free, and a really great time.

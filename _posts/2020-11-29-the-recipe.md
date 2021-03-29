@@ -6,6 +6,7 @@ excerpt_separator: <!--more-->
 bannerimg: /img/posts/cookies.jpg
 photographer: Aidana Khabdesh
 photographerurl: https://unsplash.com/@aidanaesthete
+tags: prose, sideproject, techno-magical realism
 ---
 
 I've just dried the ink on my latest short story - [The Recipe](https://www.amazon.com/Recipe-Shai-Sachs-ebook/dp/B08RBLN1YP).

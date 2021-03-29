@@ -5,6 +5,7 @@ date:   2018-01-03 20:00
 bannerimg: /img/posts/gifts.png
 photographer: secretlondon on OpenClipArt
 photographerurl: https://openclipart.org/detail/27534/purple-present
+tags: api, sideproject
 ---
 
 I’ve never been a particularly good gift-giver, so this time of year can be a little dicey - right around early November I start feeling anxious about what to buy, and as a result I procrastinate and wind up buying pretty lousy gifts.

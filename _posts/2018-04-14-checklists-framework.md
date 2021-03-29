@@ -2,6 +2,7 @@
 layout: post
 title: "Checklists API: a C# API framework with behavioral tests, inspired by the Checklist Manifesto"
 date: 2018-04-14 13:30
+tags: api, sideproject
 ---
 
 My most recent API establishes a data model for checklist templates, which Dr. Atul Gawande made famous in his 2009 work, [The Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/) (which, in all honesty, I've never actually read). The idea is simple: successful execution of an important procedure relies on well-crafted checklists, faithfully reviewed and executed. The Checklist API makes this idea available programmatically, by allowing consumers to define checklist templates, create instances of those templates, and finally tick off items from each individual checklist. The source code is available at [https://github.com/shaisachs/checklists](https://github.com/shaisachs/checklists).

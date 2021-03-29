@@ -6,6 +6,7 @@ excerpt_separator: <!--more-->
 bannerimg: /img/posts/laws-of-software.jpg
 photographer: Wesley Tingey
 photographerurl: https://unsplash.com/@wesleyphotography
+tags: architecture
 ---
 
 I've just launched [Laws of Software](https://www.laws-of-software.com), a website which catalogs the rules-of-thumb which are thought to govern software development. Spend a little time among software developers or especially managers and you'll hear references to them hear and again: some of the most frequently name-checked are Conway's Law and the Knuth principle of premature optimization, for instance. Moore's Law is so well-known as to have entered the popular press. About a year and a half ago, I started looking around online for a canonical list of these laws; for some reason or another, I couldn't find such a list, not even a collection on Wikipedia. This site is my humble attempt to address the situation, and I think I've learned a few things in compiling it.

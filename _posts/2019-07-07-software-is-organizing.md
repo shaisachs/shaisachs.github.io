@@ -3,6 +3,7 @@ layout: post
 title: "Software is organizing: What I learned from (almost) a decade in progressive tech"
 date: 2019-07-07 09:45
 excerpt_separator: <!--more-->
+tags: progressivetech
 ---
 
 I recently left my job at NGP VAN, where I had been for about 8.5 years. As I've [written before](https://shaisachs.com/2019/02/24/leaving-ngp-van.html), it was a wonderful time, and I'm really glad to have been able to contribute to the progressive movement in such a meaningful way. Since leaving I've given a lot of thought to the things I learned there, and what I take away with me. There are all sorts of lessons, large and small, but here's the most important insight by far.

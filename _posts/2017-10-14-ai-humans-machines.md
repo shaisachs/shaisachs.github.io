@@ -5,6 +5,7 @@ date:   2017-10-14 15:00
 bannerimg: /img/posts/robot.jpg
 photographer: Joseph Chan
 photographerurl: https://unsplash.com/@yulokchan
+tags: ai
 ---
 
 Should the findings of an algorithm have the force of law? And if so, what sort of algorithm?

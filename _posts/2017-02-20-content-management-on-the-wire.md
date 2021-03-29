@@ -5,6 +5,7 @@ date:   2017-02-20 13:00
 bannerimg: /img/posts/ocean.jpg
 photographer: Francess Gunn
 photographerurl: https://unsplash.com/@francesgunn
+tags: api, CMS
 ---
 
 

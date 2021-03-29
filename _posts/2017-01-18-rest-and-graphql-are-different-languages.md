@@ -5,6 +5,7 @@ bannerimg: /img/posts/eiffel.jpg
 photographer: Ivanna Salgado
 photographerurl: https://unsplash.com/@banana88
 date:   2017-01-18 18:30
+tags: api
 ---
 
 There's a problem in the way we talk about GraphQL and REST.

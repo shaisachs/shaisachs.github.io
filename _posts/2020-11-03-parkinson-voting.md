@@ -3,6 +3,7 @@ layout: post
 title: "Parkinson's law at the voting booth"
 date: 2020-11-03 07:00
 excerpt_separator: <!--more-->
+tags: progressivetech
 ---
 
 Voting has gotten a lot more complicated in the last couple decades. In the first nationwide election I remember - 1994 - all votes were cast over a 12-or-so hour process on a single day. In person. At a polling place. There were a handful of stray exceptions, absentee ballots and the like, but these were a very small part of the overall tally and usually didn't affect the outcome of the election. It's easy to look at the election of 2000, decided on the thinnest of margins, as a turning point - and indeed it was. It's equally easy to overlook the role the Internet played in complicating our voting lives.

@@ -3,6 +3,7 @@ layout: post
 title: "Innovation through incompleteness"
 date: 2020-07-05 13:00
 excerpt_separator: <!--more-->
+tags: architecture
 ---
 
 This piece on [incompleteness for startups](https://skibinsky.com/godel-incompleteness-for-startups/) is the sort of thing I love to see: a mapping from one discipline's problem to another's, which thereby brings an idea from the first discipline available to the second as a novel result. In this case, the mapping is from the axioms of mathematics to the rules-of-thumb that govern businesses. If the latter constitute a complete formal system then, according to Gödel, they must be inconsistent, meaning there are some assertions which these rules-of-thumb are unable to evaluate. If we take "assertions" in this context to mean "business plans", and "true assertions" to mean "profitable business plans", then voila - out falls the innovator's dilemma.

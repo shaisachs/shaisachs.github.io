@@ -5,6 +5,7 @@ date:   2017-02-03 19:30
 bannerimg: /img/posts/chess.jpg
 photographer: Maarten van den Heuvel
 photographerurl: https://unsplash.com/@mvdheuvel
+tags: api
 ---
 
 This piece on [The Future Of APIs](https://blog.goodapi.co/future-of-apis-c84a76bc9c85) is an interesting read. The gist of it is that we should use standards alignment, registries, and similar tools to describe APIs in more programmatic ways, thereby promoting machine-to-machine discovery. We're also treated to a lovely history lesson about the original Mechanical Turk - a clever, chess-playing pseudo-automaton.

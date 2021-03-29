@@ -5,6 +5,7 @@ date:   2017-02-15 20:00
 bannerimg: /img/posts/pencils.jpg
 photographer: Angelina Litvin
 photographerurl: https://unsplash.com/@linalitvina
+tags: api
 ---
 
 The standard dogma in RESTful API design is that HTTP verbs should be used almost like thin translations on top of the SQL statements which they request: GET for SELECT, POST for INSERT, etc. It's an elegant idea which works very well - for databases that were designed 15 years ago.

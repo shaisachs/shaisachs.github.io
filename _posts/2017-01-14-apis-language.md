@@ -5,6 +5,7 @@ date:   2017-01-14 09:00
 bannerimg: /img/posts/dictionary.jpg
 photographer: Tamara Menzi
 photographerurl: https://unsplash.com/@itstamaramenzi
+tags: api
 ---
 
 It’s time to release an API. You may think that you're wiring together some controllers, and scrambling to put together a documentation site. At the end of the day you hope to have an API that your co-workers and third parties can take for a spin.

@@ -5,6 +5,7 @@ date: 2017-09-24 13:00
 bannerimg: /img/posts/friends.jpeg
 photographer: Annie Spratt
 photographerurl: https://unsplash.com/@anniespratt
+tags: progressivetech
 ---
 
 *Update (26 Sept 2017):* Turns out this idea is pretty well-studied! Just a little poking around reveals such papers as [Chen et. al. (aka, LinkProbe)](http://www.eng.auburn.edu/~weishinn/papers/LinkProbe.pdf) from 2013 - among many others. Fascinating stuff! I will have to dig in to see how easily those concepts can be brought to bear on the problems of political organizing.

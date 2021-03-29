@@ -3,6 +3,7 @@ layout: post
 title: "A domain of dead sites"
 date: 2020-06-23 09:00
 excerpt_separator: <!--more-->
+tags: prose
 ---
 
 There's something nearly magical about collective nouns - they are so colorful and in some cases downright funny that they capture the imagination. More than any other facet of English grammar, they seem to inspire "open sourcing" - witness the [outpouring of suggestions for new collective nouns on Twitter](https://twitter.com/search?q=%23collectivenouns), for example. My own fascination with collective nouns goes back at least a couple of years - in fact, I once went so far as to publish a proposed [data format for collective nouns](https://github.com/shaisachs/collective-nouns/blob/master/cnf.json). It's with some sadness, then, that I recently learned that the website [All Sorts](http://all-sorts.org/) appears to have kicked the bucket.

@@ -5,6 +5,7 @@ date: 2017-07-31 11:00
 bannerimg: /img/posts/activism.jpg
 photographer: Roya Ann Miller
 photographerurl: https://unsplash.com/@royaannmiller
+tags: progressivetech, netroots
 ---
 
 In a couple of weeks, I'll be presenting a training at Netroots Nation called [Coding as Activism](http://www.netrootsnation.org/nn_events/nn-17/coding-as-activism-how-to-write-apps-with-ngp-and-van), together with my colleague Sandy Gani. The goal is to give attendees a taste of what it's like to work with the [NGP VAN API](https://developers.ngpvan.com).

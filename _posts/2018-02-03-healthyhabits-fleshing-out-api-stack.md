@@ -2,6 +2,7 @@
 layout: post
 title: "Healthy Habits API: Filling out the API stack"
 date: 2018-02-03 13:30
+tags: api, sideproject
 ---
 
 I'm a big fan of the idea that the journey of a thousand miles begins with a single step. That makes me something of a sucker for new year's resolutions, particularly those of the "do something small every day" variety. So this month, I put together an API to help me keep track of healthy habits - things like go to the gym every day, get to bed early, take a walk, and so on.

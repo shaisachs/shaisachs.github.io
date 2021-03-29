@@ -5,6 +5,7 @@ date:   2017-01-14 10:00
 bannerimg: /img/posts/hamburger.jpg
 photographer: Armando Ascorve Morales
 photographerurl: https://unsplash.com/@armandoascorve
+tags: api
 ---
 
 Apparently an API is a hamburger.

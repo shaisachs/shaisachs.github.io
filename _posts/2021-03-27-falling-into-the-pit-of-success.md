@@ -3,6 +3,7 @@ layout: post
 title: "Falling into the pit of success"
 date: 2021-03-27 06:30
 excerpt_separator: <!--more-->
+tags: architecture
 ---
 
 One of the favorite ideas I've encountered as an architect is the [Pit of Success](https://ricomariani.medium.com/the-pit-of-success-cfefc6cb64c8), a term which Rico Mariani coined in describing language design.

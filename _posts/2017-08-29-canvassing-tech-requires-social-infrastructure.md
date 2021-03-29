@@ -5,6 +5,7 @@ date: 2017-08-29 13:00
 bannerimg: /img/posts/phonecall.jpg
 photographer: Priscilla Du Preez
 photographerurl: https://unsplash.com/@artographybyp
+tags: progressivetech
 ---
 
 Ever since the first time I went door-to-door to talk to voters, armed with a trusty clipboard and paper packet listing doors to knock, I've thought: "there's got to be a better way!" Paper is annoying to work with, and it requires a fair amount of follow-up data entry work. More than that, paper is inherently hard to distribute, which means that paper-based canvasses require a lot of expensive real-world infrastructure: printers, field organizers, field offices.
