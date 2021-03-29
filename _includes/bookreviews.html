@@ -5,9 +5,9 @@
         <h2>Book Reviews</h2>
         
         <ul class="post-list">
-          {% assign bookreviews = site.posts | where:'layout', 'bookreview' %}
+          {% assign bookreviews = site.bookreviews | sort: 'date' | reverse %}
 
-          {% for review in bookreviews | limit:3 %}
+          {% for review in bookreviews | limit: 3 %}
             <li>
               <h3><a class="post-link" href="{{ review.url | prepend: site.baseurl }}">{{ review.title }}</a></h3>
 
