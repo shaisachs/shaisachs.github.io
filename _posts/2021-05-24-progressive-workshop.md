@@ -10,9 +10,9 @@ I'm working on a [new project](https://github.com/shaisachs/progressive-workshop
 
 <!--more-->
 
-This last piece is the one I care about most. Over the years I've heard a lot of talk about problems in our space. Some of the most common ones include the need to contest every race and the need to organize all year, every year - not just when elections come around. There are plenty of others - recently there's been some really interesting criticism of data models and the way they include people of color from campaign organizing, for instance. In my view it's time to roll up our sleeves and tackle these problems!
+This last piece is the one I care about most. Over the years I've heard a lot of talk about problems in our space. Some of the most common ones include the need to contest every race and the need to organize all year, every year - not just when elections come around. There are plenty of others - recently there's been some really interesting criticism of data models and the way they include people of color from campaign organizing, for instance. In my view it's time to roll up our sleeves and tackle these problems.
 
-One thing I really like about the progressive tech ecosystem: it's a positive, constructive environment. People tend to look for solutions first and gripe second. I hope this project will be one small contribution toward that feeling, and I hope that others find it useful, as well!
+One thing I really like about the progressive tech ecosystem: it's a positive, constructive environment. People tend to look for solutions first and gripe second. I hope this project will be one small contribution toward that feeling, and I hope that others find it useful, as well.
 
 There's more, or at least I hope there will be! Talking about problems and solutions is all very fine, but it's better still to actually put solutions into practice.
 
