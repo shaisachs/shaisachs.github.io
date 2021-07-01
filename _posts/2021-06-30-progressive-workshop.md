@@ -3,9 +3,12 @@ layout: post
 title: Progressive Workshop - now available!
 date: 2021-06-30 21:34
 tags: progressivetech
+excerpt_separator: <!--more-->
 ---
 
 My new site, [Progressive Workshop](https://progressive-workshop.com/), is now live. As [I promised last month](https://shaisachs.com/2021/05/24/progressive-workshop.html), the site houses a variety of resources as well as an idea lab that identifies problems in the world of progressive tech, and offers solutions. At the moment it's very much a hobby project, but I hope to grow it into something more. Maybe someday it'll even inspire someone else to start a new venture!
+
+<!--more-->
 
 Thus far I've focused on blog posts that seek to work out the approximate shape and size of the progressive tech industry, and to address some of the biggest issues in the space - funding streams, the pace of innovation, etc. Over time I hope to dig in to more tactical issues: metrics in digital organizing is something I have in my sights these days, for instance. Bringing startup crowdfunding to bear on progressive tech is another. And that's very much the tip of the iceberg.
 
