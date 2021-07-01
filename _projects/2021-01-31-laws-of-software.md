@@ -4,7 +4,7 @@ date: 2021-01-31
 link: https://www.laws-of-software.com
 icon: gavel
 category: other
-weight: 30
+weight: 20
 featured: 1
 ---
 

@@ -4,7 +4,7 @@ date: 2019-02-04
 icon: usd
 link: https://www.wayfair.com
 category: career
-weight: 90
+weight: 80
 featured: 1
 ---
 

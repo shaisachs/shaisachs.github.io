@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Progressive Workshop
+title: Progressive Workshop - coming soon
 date: 2021-05-24 05:34
 tags: progressivetech
 excerpt_separator: <!--more-->
