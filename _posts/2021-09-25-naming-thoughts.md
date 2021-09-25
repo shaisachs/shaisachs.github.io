@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What AI can't do: naming thoughts
+title: "What AI can't do: naming thoughts"
 date: 2021-09-25 09:07
 excerpt_separator: <!--more-->
 bannerimg: /img/posts/dictionary.jpg
