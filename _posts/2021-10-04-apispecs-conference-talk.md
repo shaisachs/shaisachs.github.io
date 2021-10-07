@@ -6,7 +6,7 @@ tags: api
 excerpt_separator: <!--more-->
 ---
 
-I should have mentioned this earlier, but last week I wrapped a talk at [API Specs Conference 2021](https://events.linuxfoundation.org/openapi-asc/). It was called ["We brought OpenAPI Docs into our service catalog. Now what?"](https://apispecs21.sched.com/event/lMM1). My colleague Zoe Song and I told the story of how we grabbed [OpenAPI docs](https://www.openapis.org/) from microservices at Wayfair, and loaded them into [Backstage](https://backstage.io/) - and we talked about what we learned along the way. I believe the Youtube video should be live next week.
+I should have mentioned this earlier, but last week I wrapped a talk at [API Specs Conference 2021](https://events.linuxfoundation.org/openapi-asc/). It was called ["We brought OpenAPI Docs into our service catalog. Now what?"](https://apispecs21.sched.com/event/lMM1). My colleague Zoe Song and I told the story of how we grabbed [OpenAPI docs](https://www.openapis.org/) from microservices at Wayfair, and loaded them into [Backstage](https://backstage.io/) - and we talked about what we learned along the way. [You can watch it on Youtube now!](https://www.youtube.com/watch?v=GE9T0DxQUHY)
 
 <!--more-->
 
