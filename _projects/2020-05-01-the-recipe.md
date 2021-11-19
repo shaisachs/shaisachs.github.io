@@ -3,7 +3,7 @@ title: "The Recipe"
 date: 2020-05-01
 category: writing
 weight: 10
-featured: 1
+featured: 0
 link: https://www.amazon.com/Recipe-Shai-Sachs-ebook/dp/B08RBLN1YP
 icon: book
 ---
