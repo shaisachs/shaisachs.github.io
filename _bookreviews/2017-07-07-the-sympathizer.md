@@ -2,11 +2,8 @@
 layout: bookreview
 title: "The Sympathizer"
 date: 2017-07-07 13:00
-bookstarted: 2017-06-30
 bookfinished: 2017-07-07
 rating: 4
-bookcoverimage: https://images.gr-assets.com/books/1423543886m/23168277.jpg
-reviewurl: https://www.goodreads.com/review/show/2045724112
 ---
 
 The Sympathizer is a novel which looks at the Vietnam War - especially the fall of Saigon and its aftermath - through the lens of a double agent. An officer in the South Vietnamese secret police, our narrator (whose name we never learn) is a secret Communist sympathizer whose double identity is the central organizing principle of this book.

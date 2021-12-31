@@ -2,11 +2,8 @@
 layout: bookreview
 title: "The Universe in the Rearview Mirror: How Hidden Symmetries Shape Reality"
 date: 2016-10-30 13:00
-bookstarted: 2016-09-30
 bookfinished: 2016-10-30
 rating: 2
-bookcoverimage: https://images.gr-assets.com/books/1367777904m/16101087.jpg
-reviewurl: https://www.goodreads.com/review/show/1235738949
 ---
 
 I originally found this book while searching for a reasonably good summary of Noether's Theorem, which has fascinated me for a few years. Strictly speaking, the subject of this book is not Noether's Theorem exactly, but rather the role of symmetries in governing the laws of the universe, writ large. (Noether's Theorem, approximately, states that every symmetry in the laws of physics yields a conserved quantity; for example, energy is conserved due to time symmetry.) The goal of the book seems to be to discuss the role of symmetry in physics, at a rather casual or informal level. Those who know a little physics, but not a lot, should feel more or less at home.

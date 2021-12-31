@@ -2,11 +2,8 @@
 layout: bookreview
 title: "The Underground Railroad"
 date: 2017-01-22 13:00
-bookstarted: 2017-01-10
 bookfinished: 2017-01-22
 rating: 4
-bookcoverimage: https://images.gr-assets.com/books/1493178362m/30555488.jpg
-reviewurl: https://www.goodreads.com/review/show/1874163281
 ---
 
 The Underground Railroad is the story of Cora, a slave in Georgia who strives to be free, and the many trials she faces in her attempt. Beneath the surface of Cora's story is that of Mabel, her mother, who fled the plantation where the two of them lived when Cora was 9. Mabel's neglect to bring Cora with her is a sore spot that never quite leaves Cora; it's something that she measures her decisions by, almost like a guiding North star.

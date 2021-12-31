@@ -2,14 +2,11 @@
 layout: bookreview
 title: "Emmy Noether's Wonderful Theorem"
 date: 2017-08-16 13:00
-bookstarted: 2017-08-12
 bookfinished: 2017-08-16
 rating: 3
-bookcoverimage: 
-reviewurl: https://www.goodreads.com/review/show/2114857808
 ---
 
-Noether's theorem is one of the towering achievements of early twentieth century physics, in some ways even more illuminating than special relativity or the uncertainty principle. In shorthand it sounds so simple: every symmetry produces a conserved quantity, is one way to put it. The math behind the theorem is anything but simple, and it is those details which this book explores in elaborate and almost loving attention.
+Noether's theorem is one of the towering achievements of early twentieth century physics, in some ways even more illuminating than special relativity or the uncertainty principle. In shorthand it sounds so simple: every symmetry produces a conserved quantity, is one way to  put it. The math behind the theorem is anything but simple, and it is those details which this book explores in elaborate and almost loving attention.
 
 
 

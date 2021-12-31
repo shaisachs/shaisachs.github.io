@@ -2,11 +2,8 @@
 layout: bookreview
 title: "The Tiger's Wife"
 date: 2013-03-02 13:00
-bookstarted: 2013-02-14
 bookfinished: 2013-03-02
 rating: 4
-bookcoverimage: https://images.gr-assets.com/books/1382570044m/8366402.jpg
-reviewurl: https://www.goodreads.com/review/show/516176022
 ---
 
-Getting in to this book was a little challenging: at first it felt a bit like so many unrelated vignettes that were trying to be a novel. And I think the way that it was set in a sort of anonymized post-Bosnian landscape was a little disorienting, too. That being said, once I got into it, I really enjoyed it, despite not fully understanding it. There are four pillars of the book, as it were: the theme of domestication and the constant references to the Jungle Book (which I've not read); the story of the deathless man; the role of medicine in war; and the actual story of the tiger's wife. I've yet to really figure out how they all fit together, but they make for a fascinating puzzle!
+Getting in to this book was a little challenging: at first it felt a bit like so many unrelated vignettes that were trying to be a novel.  And I think the way that it was set in a sort of anonymized post-Bosnian landscape was a little disorienting, too.  That being said, once I got into it, I really enjoyed it, despite not fully understanding it.  There are four pillars of the book, as it were: the theme of domestication and the constant references to the Jungle Book (which I've not read); the story of the deathless man; the role of medicine in war; and the actual story of the tiger's wife.  I've yet to really figure out how they all fit together, but they make for a fascinating puzzle!

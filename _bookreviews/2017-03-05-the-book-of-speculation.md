@@ -2,11 +2,8 @@
 layout: bookreview
 title: "The Book of Speculation"
 date: 2017-03-05 13:00
-bookstarted: 2017-03-01
 bookfinished: 2017-03-05
 rating: 3
-bookcoverimage: https://images.gr-assets.com/books/1422476749m/23014670.jpg
-reviewurl: https://www.goodreads.com/review/show/1928916034
 ---
 
 The Book of Speculation is a book with a mysterious plot that centers around an ancient circus log-book. There are two plot lines running in parallel: the contemporary plot, in which a librarian by the name of Simon Watson receives the log-book in the mail, quite unexpectedly; and the historical plot, through which we learn the story of Simon's great-great-great-great grandfather, a circus performer described in the log-book.

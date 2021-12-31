@@ -2,11 +2,8 @@
 layout: bookreview
 title: "The Happiest Baby on the Block: The New Way to Calm Crying and Help Your Newborn Baby Sleep Longer"
 date: 2016-05-12 13:00
-bookstarted: 2016-05-01
 bookfinished: 2016-05-12
 rating: 3
-bookcoverimage: 
-reviewurl: https://www.goodreads.com/review/show/1625875270
 ---
 
 Dr. Harvey Karp lays out his argument that fussiness among babies is caused by their early "eviction" from the womb at nine months. He also outlines his prescription, which he calls the "Cuddle Cure" - a five-part recipe for recreating the conditions of life in the womb during a baby's "fourth trimester", ie its first three months of life. (The recipe, called the Five S's, calls for swaddling, side hold, swaying, shhhing, and sucking.)

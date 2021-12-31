@@ -2,14 +2,11 @@
 layout: bookreview
 title: "The Secret Chord"
 date: 2016-06-06 13:00
-bookstarted: 2016-05-31
 bookfinished: 2016-06-06
 rating: 3
-bookcoverimage: https://images.gr-assets.com/books/1428406962m/24611425.jpg
-reviewurl: https://www.goodreads.com/review/show/1654644923
 ---
 
-The Secret Chord is a retelling of the story of King David through the eyes of his prophet Natan. Set in an ancient land among a people on the verge of greatness, it is laced with faith and doubt, loyalty and deception. It's an excellent exploration of the art of state craft in an age of brutality.
+The Secret Chord is a retelling of the story of King David through the eyes of his prophet Natan. Set in an ancient land among a people on the verge of greatness, it is laced with faith and doubt, loyalty and deception.  It's an excellent exploration of the art of state craft in an age of brutality.
 
 
 

@@ -2,14 +2,11 @@
 layout: bookreview
 title: "Joseph Anton: A Memoir"
 date: 2013-04-07 13:00
-bookstarted: 2013-01-14
 bookfinished: 2013-04-07
 rating: 4
-bookcoverimage: https://images.gr-assets.com/books/1345767745m/13532186.jpg
-reviewurl: https://www.goodreads.com/review/show/506100902
 ---
 
-I very much enjoyed reading this book, on many levels. At its most basic, it's a very detailed look at the story of the Iranian fatwa against Salman Rushdie, and all that it engendered in the world of literature, international relations and the life of the author. Having been too young to understand this event when it started, I appreciated the chance to learn that whole story - although there are surely shorter and less biased narratives I could have found.
+I very much enjoyed reading this book, on many levels.  At its most basic, it's a very detailed look at the story of the Iranian fatwa against Salman Rushdie, and all that it engendered in the world of literature, international relations and the life of the author.  Having been too young to understand this event when it started, I appreciated the chance to learn that whole story - although there are surely shorter and less biased narratives I could have found.
 
 
 

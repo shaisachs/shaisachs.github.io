@@ -2,11 +2,8 @@
 layout: bookreview
 title: "Siblings Without Rivalry: How to Help Your Children Live Together So You Can Live Too"
 date: 2019-12-30 13:00
-bookstarted: 2019-09-04
 bookfinished: 2019-12-30
 rating: 3
-bookcoverimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340738863l/12816644._SX98_.jpg
-reviewurl: https://www.goodreads.com/review/show/2964993428
 ---
 
 "Siblings without rivalry" is a companion to Adele Faber and Elaine Mazlish's earlier work, "How to talk so kids will listen." It's an exploration of sibling dynamics, and what parents can do to shape these relationships in a positive way. The foundation of the books is a series of workshops in sibling dynamics which the two facilitated, and the book is formatted as a kind of transcript of these workshops - though of course, the authors have anonymized all of the details and combined many diffeent real-world parents and children into the characters who populate the fictionalized workshops that are described here. On the whole, the actual strategies for handling sibling dynamics are really wonderful; they emphasize mutual respect between the siblings, problem-solving skills, and helping children resolve conflicts on their own.

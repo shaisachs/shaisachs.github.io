@@ -2,11 +2,8 @@
 layout: bookreview
 title: "Supercooperators: The Mathematics of Evolution, Altruism and Human Behaviour {Or, Why We Need Each Other to Succeed}"
 date: 2013-09-04 13:00
-bookstarted: 2013-08-23
 bookfinished: 2013-09-04
 rating: 3
-bookcoverimage: 
-reviewurl: https://www.goodreads.com/review/show/702033505
 ---
 
 Super Cooperators is a book about a mathematician who develops a mathematical model to describe how cooperation might evolve out of the conditions of classical Darwinian natural selection. It's a fascinating topic described in a somewhat cloying manner. The results are fascinating: I was particularly surprised to learn about the evolutionary model of cooperative and anti-cooperative generational "waves" described in his genetic programming experiment in the first chapter, and intrigued by some of the results in graph theory as well.

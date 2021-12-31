@@ -2,11 +2,8 @@
 layout: bookreview
 title: "Measure What Matters"
 date: 2019-11-11 13:00
-bookstarted: 2019-04-01
 bookfinished: 2019-11-11
 rating: 3
-bookcoverimage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
-reviewurl: https://www.goodreads.com/review/show/2771343527
 ---
 
 Measure what matters is a book which describes and evangelizes an approach to management called Objectives and Key Results (OKRs). John Doerr, in his role as a venture capitalist, helped bring OKRs from Intel (where they originated, under the leadership of Andy Stern) to Google. Thanks in large part to Google's adoption, many technology companies have since adopted or at least experimented with OKRs in one fashion or another; I myself have seen a few iterations of this approach.

@@ -2,11 +2,8 @@
 layout: bookreview
 title: "Our Declaration: A Reading of the Declaration of Independence in Defense of Equality"
 date: 2017-01-13 13:00
-bookstarted: 2017-01-07
 bookfinished: 2017-01-13
 rating: 4
-bookcoverimage: https://images.gr-assets.com/books/1413752770m/18379028.jpg
-reviewurl: https://www.goodreads.com/review/show/1870741925
 ---
 
 This book critically examines the Declaration of Independence, using the tools of literary analysis to argue that equality is a precondition for freedom, rather than an obstacle to it.

@@ -2,11 +2,8 @@
 layout: bookreview
 title: "The Princess Bride"
 date: 2018-11-16 13:00
-bookstarted: 2018-11-06
 bookfinished: 2018-11-16
 rating: 3
-bookcoverimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327903636l/21787._SX98_.jpg
-reviewurl: https://www.goodreads.com/review/show/2585608397
 ---
 
 I had a lot of fun with this book. It's the basis of the cult-classic movie of the same name - the author of the book also wrote the screenplay. As a result, the action scenes and characters are nearly exactly the same, frame-for-frame. Considering how much fun the movie was, it's little wonder that the book is similarly entertaining.

@@ -2,11 +2,8 @@
 layout: bookreview
 title: "Then We Came to the End"
 date: 2017-09-05 13:00
-bookstarted: 2017-09-01
 bookfinished: 2017-09-05
 rating: 4
-bookcoverimage: 
-reviewurl: https://www.goodreads.com/review/show/2121833076
 ---
 
 (Spoilers ahead, sorry.)

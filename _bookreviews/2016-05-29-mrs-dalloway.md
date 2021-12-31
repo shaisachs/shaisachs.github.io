@@ -2,11 +2,8 @@
 layout: bookreview
 title: "Mrs. Dalloway"
 date: 2016-05-29 13:00
-bookstarted: 2016-05-23
 bookfinished: 2016-05-29
 rating: 2
-bookcoverimage: https://images.gr-assets.com/books/1479336522m/14942.jpg
-reviewurl: https://www.goodreads.com/review/show/1646435012
 ---
 
 A towering classic in English literature, _Mrs. Dalloway_ is Virginia Woolf's story of a society woman in Edwardian England, going about her day as she prepares to throw a party. Along the way we meet a cast of characters who touch upon her day in some way or the other.

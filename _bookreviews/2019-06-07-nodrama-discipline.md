@@ -2,11 +2,8 @@
 layout: bookreview
 title: "No-Drama Discipline: The Whole-Brain Way to Calm the Chaos and Nurture Your Child's Developing Mind"
 date: 2019-06-07 13:00
-bookstarted: 2019-03-08
 bookfinished: 2019-06-07
 rating: 3
-bookcoverimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532006712l/40873423._SX98_.jpg
-reviewurl: https://www.goodreads.com/review/show/2743087342
 ---
 
 No-Drama Discipline is a parenting book aimed primarily at parents of toddlers, describing a disciplinary system that is based primarily on emotional intelligence and communication. In round numbers, the idea is that parents (and other disciplinarians, like teachers) should develop and harness a child's emotional intelligence in order to control the child's behavior. On the one hand development means helping a child learn about emotions - her own and those of others, how to process them, etc. On the other hand harnessing means using that intelligence to drive behavior in one way or another: for example, pointing out that hurting someone makes that person sad, and creating a feeling of "healthy guilt" when a child hits someone else - thereby discouraging children from hitting others.

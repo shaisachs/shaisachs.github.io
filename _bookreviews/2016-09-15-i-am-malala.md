@@ -2,11 +2,8 @@
 layout: bookreview
 title: "I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban"
 date: 2016-09-15 13:00
-bookstarted: 2016-08-18
 bookfinished: 2016-09-15
 rating: 3
-bookcoverimage: https://images.gr-assets.com/books/1375414895m/17851885.jpg
-reviewurl: https://www.goodreads.com/review/show/1853862472
 ---
 
 Malala's story is a rather eye-popping account of what it is like to face down the Taliban in person. She grew up in a remote town in Pakistan, attending school in a society that was sometimes outright hostile to the notion of girls' education. Just about the time that she graduated from primary to high school, the Taliban began staking out ground in her town - first via a media-based "hearts-and-minds" campaign, and eventually with guns and brutal violence. Throughout it all, she and her father were courageous, outspoken voices for girls' education, despite tremendous personal risk. Ultimately she paid an unimaginable price - a gunman stopped her bus on the way home and shot her at point-blank range, nearly killing her and injuring two of her classmates. It's difficult to understate her bravery and determination. Placed in similar circumstances, who among us can honestly say we'd have done the same thing?

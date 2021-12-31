@@ -2,11 +2,8 @@
 layout: bookreview
 title: "A Gentleman in Moscow"
 date: 2018-04-05 13:00
-bookstarted: 2018-03-20
 bookfinished: 2018-04-05
 rating: 4
-bookcoverimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459524472l/29430012._SX98_.jpg
-reviewurl: https://www.goodreads.com/review/show/2334228340
 ---
 
 Gentleman in Moscow walks the line between the whimsical and the philosophical, examining the life of a Russian aristocrat sentenced to house arrest in the aftermath of the Bolshevik revolution.

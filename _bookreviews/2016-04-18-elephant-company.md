@@ -2,11 +2,8 @@
 layout: bookreview
 title: "Elephant Company: The Inspiring Story of an Unlikely Hero and the Animals Who Helped Him Save Lives in World War II"
 date: 2016-04-18 13:00
-bookstarted: 2016-03-28
 bookfinished: 2016-04-18
 rating: 3
-bookcoverimage: https://images.gr-assets.com/books/1419183720m/18691058.jpg
-reviewurl: https://www.goodreads.com/review/show/1639884680
 ---
 
 An intriguing look at the life of Jim Williams, who started his career as a teak logger-cum-elephant whisperer in the remote jungles of early twentieth century Burma. When World War II broke out and Great Britain found itself at war with the Japanese, with a ferocious campaign for control of Burma, Williams enlisted himself and brought his unique talent as an elephant handler to the war effort.

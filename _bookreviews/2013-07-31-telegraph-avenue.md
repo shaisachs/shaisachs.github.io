@@ -2,16 +2,13 @@
 layout: bookreview
 title: "Telegraph Avenue"
 date: 2013-07-31 13:00
-bookstarted: 2013-07-19
 bookfinished: 2013-07-31
 rating: 3
-bookcoverimage: https://images.gr-assets.com/books/1335716595m/10756240.jpg
-reviewurl: https://www.goodreads.com/review/show/517913460
 ---
 
-There were some things I liked, and things I didn't, about this book. In the former category:
+There were some things I liked, and things I didn't, about this book.  In the former category:
 
-- The theme of racial integration and boundaries, and the way that played out both in midwifery and in the store that sat on the border of two different parts of Oakland. And the name of the store was perfectly paired.
+- The theme of racial integration and boundaries, and the way that played out both in midwifery and in the store that sat on the border of two different parts of Oakland.  And the name of the store was perfectly paired.
 
 - The representation of the life cycle in the characters - with Aviva and Gwen occupied in birth, the two boys in the throes of youth, Nat and Archy literally in middle age but employed in the business of preserving the memory of old age; and of course Chandler Flowers occupied in death.
 
@@ -25,12 +22,12 @@ There were some things I liked, and things I didn't, about this book. In the for
 
 And the things I didn't like:
 
-- The way-too-thick pretentiousness of it all. Chapter 3 - the 15-page, one-sentence, chapter-about-nothing - was entirely too much for me. And as it was I thought he was getting a little long-winded in parts. That was really not enjoyable.
+- The way-too-thick pretentiousness of it all.  Chapter 3 - the 15-page, one-sentence, chapter-about-nothing - was entirely too much for me.  And as it was I thought he was getting a little long-winded in parts.  That was really not enjoyable.
 
-- I started to get a little tired of all the daddy issues maybe a third of the way through. But they just kept on coming!
+- I started to get a little tired of all the daddy issues maybe a third of the way through.  But they just kept on coming!
 
-- The obsession with saying I'm sorry and how difficult it is. Am I missing something or is that really not due as much attention as it got?
+- The obsession with saying I'm sorry and how difficult it is.  Am I missing something or is that really not due as much attention as it got?
 
 
 
-On the whole - it wasn't bad, but it wasn't great either. I expected something a good deal better after the Wonder Boys.. alas.
+On the whole - it wasn't bad, but it wasn't great either.  I expected something a good deal better after the Wonder Boys.. alas.

@@ -2,11 +2,8 @@
 layout: bookreview
 title: "Little Fires Everywhere"
 date: 2017-10-19 13:00
-bookstarted: 2017-10-06
 bookfinished: 2017-10-19
 rating: 3
-bookcoverimage: https://images.gr-assets.com/books/1490351351m/34273236.jpg
-reviewurl: https://www.goodreads.com/review/show/2145431937
 ---
 
 Little Fires Everywhere tells the story of a mysterious artist and her daughter, who arrive in the orderly, upper-class, progressive suburb of Shaker Heights, Ohio - only to whisk away in the night a few months later. Their story intertwines inextricably with that of the Richardsons, a wealthy, established family with four children worming their way through high school.

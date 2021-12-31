@@ -2,11 +2,8 @@
 layout: bookreview
 title: "A Hologram for the King"
 date: 2017-04-28 13:00
-bookstarted: 2017-04-28
 bookfinished: 2017-04-28
 rating: 3
-bookcoverimage: https://images.gr-assets.com/books/1337179987m/13722902.jpg
-reviewurl: https://www.goodreads.com/review/show/2006287913
 ---
 
 A Hologram for the King is the story of the new economy written through the lens of the old. The protagonist, Alan Clay, is about as classic a prototype of mid-20th century Americana as you can get: a salesman for consumer goods manufactured in the US, a white guy who is both overly confident in his own material manifest destiny and financially reckless, a middle management type who is all too happy to bust unions and chase after cheap labor. He is on a mission to solve his own economic woes by closing a huge IT contract with the Kingdom of Saudi Arabia. His strategy for winning the contract: to impress the King with a new-fangled contraption that perfectly symbolizes the 21st century economy - a hologram that facilitates face-to-face communication with people halfway across the world.

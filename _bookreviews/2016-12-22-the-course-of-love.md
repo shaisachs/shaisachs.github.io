@@ -2,11 +2,8 @@
 layout: bookreview
 title: "The Course of Love"
 date: 2016-12-22 13:00
-bookstarted: 2016-12-17
 bookfinished: 2016-12-22
 rating: 2
-bookcoverimage: https://images.gr-assets.com/books/1447781024m/27845690.jpg
-reviewurl: https://www.goodreads.com/review/show/1841757562
 ---
 
 This book describes a lifelong relationship between Rabih and Kirsten - an architect and a municipal planner, respectively - who met on the job while building a traffic circle for a little town in Scotland. It's a charming love story, made intentionally trite in order to afford a steady process of generalization that runs throughout the narrative, helpfully set apart from the plot in blocked-out italics.

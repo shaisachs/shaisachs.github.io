@@ -2,11 +2,8 @@
 layout: bookreview
 title: "The Other Einstein"
 date: 2018-06-03 13:00
-bookstarted: 2018-04-24
 bookfinished: 2018-06-03
 rating: 3
-bookcoverimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461026382l/28389305._SX98_.jpg
-reviewurl: https://www.goodreads.com/review/show/2371453324
 ---
 
 The Other Einstein is an imagined account of the life of Albert Einstein's first wife, Mileva Marić. A brilliant mathematician and physicist, she enrolled at the Polytechnic Institute in Zurich and they met through their studies. What follows is the story of her studies, their relationship, and the theories that made Einstein famous.

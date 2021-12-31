@@ -2,11 +2,8 @@
 layout: bookreview
 title: "Swing Time"
 date: 2017-09-20 13:00
-bookstarted: 2017-09-06
 bookfinished: 2017-09-20
 rating: 3
-bookcoverimage: https://images.gr-assets.com/books/1456491713m/28390369.jpg
-reviewurl: https://www.goodreads.com/review/show/2116110145
 ---
 
 Swing Time is the story of two girls growing up in 1980's London, each fascinated by the world of dance, but ultimately taking very different paths through it. The unnamed narrator winds up, more or less by happenstance, as the assistant to an international pop star named Aimee. Her friend Tracey struggles to make it as a professional actress, eventually accepting a string of bit parts in one musical or another.

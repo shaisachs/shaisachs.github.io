@@ -1,12 +1,9 @@
 ---
 layout: bookreview
-title: "My Brilliant Friend"
+title: "My Brilliant Friend (L'amica geniale #1)"
 date: 2017-01-19 13:00
-bookstarted: 2017-01-13
 bookfinished: 2017-01-19
 rating: 3
-bookcoverimage: https://images.gr-assets.com/books/1343064947m/13586707.jpg
-reviewurl: https://www.goodreads.com/review/show/1877758348
 ---
 
 My brilliant friend explores a childhood friendship between two girls, Lenu and Lila. Their childhoold is set against the backdrop of the slums of Naples in the 1950s. While Lenu, the narrator, is a top student, her friend is more than that - she's brilliant, and enigmatic in the bargain. The competition between the two girls defines their friendship, driving then apart and pulling them back together over the years.

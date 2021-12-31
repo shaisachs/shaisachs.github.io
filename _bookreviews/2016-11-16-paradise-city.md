@@ -2,11 +2,8 @@
 layout: bookreview
 title: "Paradise City"
 date: 2016-11-16 13:00
-bookstarted: 2016-11-12
 bookfinished: 2016-11-16
 rating: 3
-bookcoverimage: https://images.gr-assets.com/books/1427963855m/25267389.jpg
-reviewurl: https://www.goodreads.com/review/show/1810792602
 ---
 
 This book explores the interconnected stories of four characters living in modern-day London. The storylines center around Sir Howard Pink, an eccentric billionaire whose daughter went missing years ago. There is also Esme Reade, a mid-career journalist struggling to keep her head above water in a rapidly-changing industry; Beatrice Kizza, a refugee from Ugana trying to find a place in her new country; and Carol Hetherington, a widow trying to cope with the recent loss of her husband.

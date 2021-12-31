@@ -2,14 +2,11 @@
 layout: bookreview
 title: "The Black Count: Glory, Revolution, Betrayal, and the Real Count of Monte Cristo"
 date: 2013-11-06 13:00
-bookstarted: 2013-09-21
 bookfinished: 2013-11-06
 rating: 3
-bookcoverimage: https://images.gr-assets.com/books/1337693786m/13330922.jpg
-reviewurl: https://www.goodreads.com/review/show/516577735
 ---
 
-I very much enjoyed this book. To begin with it's the story of an interesting figure who is largely overlooked by history but is nevertheless a fascinating and impressive character. More than that, it's the story of perhaps the first civil rights movement in Western European history, which is again a forgotten subject. It's an up-close look at the French revolution, which is a subject I never really learned about in depth in school - and such a shame, because it's such a fascinating template for many of the political upheavals that followed it. Finally, of course, it's great background reading for anyone who enjoyed the books of Alex Dumas, as Dumas apparently took a good deal of inspiration for The Three Musketeers and The Count of Monte Cristo from the life of his father.
+I very much enjoyed this book. To begin with it's the story of an interesting figure who is largely overlooked by history but is nevertheless a fascinating and impressive character.  More than that, it's the story of perhaps the first civil rights movement in Western European history, which is again a forgotten subject.  It's an up-close look at the French revolution, which is a subject I never really learned about in depth in school - and such a shame, because it's such a fascinating template for many of the political upheavals that followed it.  Finally, of course, it's great background reading for anyone who enjoyed the books of Alex Dumas, as Dumas apparently took a good deal of inspiration for The Three Musketeers and The Count of Monte Cristo from the life of his father.
 
 
 

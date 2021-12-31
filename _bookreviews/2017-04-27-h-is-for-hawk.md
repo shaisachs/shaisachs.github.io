@@ -2,11 +2,8 @@
 layout: bookreview
 title: "H is for Hawk"
 date: 2017-04-27 13:00
-bookstarted: 2017-04-20
 bookfinished: 2017-04-27
 rating: 4
-bookcoverimage: 
-reviewurl: https://www.goodreads.com/review/show/1977067491
 ---
 
 H is for Hawk is the story of one woman's grief for her father, told through the lens of an adventure in falconry. In an attempt to process her father's sudden death, Helen MacDonald adopted and trained a goshawk. It had been a personal goal of hers for many years - her fascination with hawks started when she was around 9. And thus she adopted her hawk, named Mabel, and began the long and painful process of domesticating a hawk, training it to fly and return, and finally to hunt.

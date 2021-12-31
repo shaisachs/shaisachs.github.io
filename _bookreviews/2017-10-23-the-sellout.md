@@ -2,11 +2,8 @@
 layout: bookreview
 title: "The Sellout"
 date: 2017-10-23 13:00
-bookstarted: 2017-06-02
 bookfinished: 2017-10-23
-rating: 4
-bookcoverimage: https://images.gr-assets.com/books/1403430899m/22237161.jpg
-reviewurl: https://www.goodreads.com/review/show/2017088568
+rating: 5
 ---
 
 What if racism was a place that you could actually visit? A town with borders, residents, and a spot on the map? No one would want to admit that this place exists - the state would make every effort to wipe it off the official record books. Yet how would that make the residents feel, particularly those who had lived there so long, were so used to thinking of that place as home, that they didn't know where else to go? Put another way: if we declare victory in the war on racism (as many people would love to do), what does that do to the people who are still witnessing it and experiencing it every day?

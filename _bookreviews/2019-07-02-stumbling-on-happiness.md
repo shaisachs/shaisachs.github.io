@@ -2,11 +2,8 @@
 layout: bookreview
 title: "Stumbling on Happiness"
 date: 2019-07-02 13:00
-bookstarted: 2019-06-07
 bookfinished: 2019-07-02
 rating: 3
-bookcoverimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327947323l/56627._SX98_.jpg
-reviewurl: https://www.goodreads.com/review/show/2849484524
 ---
 
 Dan Gilbert's book about happiness is an interesting catalog of numerous psychological biases that have important impacts on our view of the world, and consequently the way we feel on a day to day basis.

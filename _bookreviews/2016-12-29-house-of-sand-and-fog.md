@@ -2,11 +2,8 @@
 layout: bookreview
 title: "House of Sand and Fog"
 date: 2016-12-29 13:00
-bookstarted: 2016-12-16
 bookfinished: 2016-12-29
 rating: 3
-bookcoverimage: 
-reviewurl: https://www.goodreads.com/review/show/1841144737
 ---
 
 This book is a dark and gripping tragedy with characters who seem deeply likable and unlikable in equal measure. In the opening pages Kathy Niccolo loses her home due to a mundane error at the county tax office. That in turn opens a door for Colonel Massoud Behrani, an air force colonel under the Shah of Iran who fled his home country during the revolution. Niccolo is an escapist at heart, whose deep depression in the wake of a breakup sets off the drama. Behrani is a contemptuous narcissist whose excessive pride prevents him from adjusting to his new and humble circumstances. What unfolds from here is a tragedy that pits legality against morality, racism against sexism, and desperation against desperation. Neither Niccolo not Behrani have very much margin for error in their lives, but both of them make a string of relatable but fatal mistakes.

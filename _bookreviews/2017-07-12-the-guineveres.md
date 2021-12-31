@@ -2,11 +2,8 @@
 layout: bookreview
 title: "The Guineveres"
 date: 2017-07-12 13:00
-bookstarted: 2017-07-08
 bookfinished: 2017-07-12
 rating: 3
-bookcoverimage: https://images.gr-assets.com/books/1465669080m/28220847.jpg
-reviewurl: https://www.goodreads.com/review/show/2060995148
 ---
 
 A coming-of-age story in an interesting setting, The Guineveres tells the story of four girls, all named Guinevere, growing up together in a convent in the midst of World War 2. Through one set of plot twists after another, the girls wind up nursing four mysterious soldiers, injured severely in combat and delivered into the care of the convent. The book poses a series of questions about the nature of faith, hope, and love, without answering any of these questions other than to cite Corinthians.

@@ -1,12 +1,9 @@
 ---
 layout: bookreview
-title: "The Mists of Avalon"
+title: "The Mists of Avalon (Avalon, #1)"
 date: 2017-06-30 13:00
-bookstarted: 2017-05-05
 bookfinished: 2017-06-30
 rating: 3
-bookcoverimage: https://images.gr-assets.com/books/1388857089m/402045.jpg
-reviewurl: https://www.goodreads.com/review/show/1991569103
 ---
 
 The Mists of Avalon is a feminist retelling of the legend of King Arthur, written from the point of view of Morgan le Fey. The story begins when she is very young - at three years old, the daughter of the Lady and Duke of Cornwall; more significantly, she is the niece of Viviane, Lady of the Lake, someone not altogether different from the modern-day Bishop of Canterbury. The story proceeds from the ascent of Uther Pendragon; to the birth of Arthur; to Arthur's crowning as High King of Britain with Viviane's support; to his betrayal of Viviane and the religions centered at the Isle of Avalon; and ultimately, the downfall of his reign.

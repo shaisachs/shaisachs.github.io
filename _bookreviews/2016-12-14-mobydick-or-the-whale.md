@@ -1,12 +1,9 @@
 ---
 layout: bookreview
-title: "Moby-Dick or, The Whale"
+title: "Moby-Dick or, the Whale"
 date: 2016-12-14 13:00
-bookstarted: 2016-09-16
 bookfinished: 2016-12-14
 rating: 2
-bookcoverimage: https://images.gr-assets.com/books/1327940656m/153747.jpg
-reviewurl: https://www.goodreads.com/review/show/1240119555
 ---
 
 This book is inevitably described in grandiose terms - it is the first American novel, classic tale of man's struggle with nature, and so forth. But besides the fact that it is very long, and that the subject is also very big, I just could not see a way to enjoying it. The famous story concerns a shiftless adventurer names Ishmael who joins a hapless whaling voyage. The crew finds itself enmeshed in the captain's own personal agenda, a curiously deep vendetta against the enormous titular whale.

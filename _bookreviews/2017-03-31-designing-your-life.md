@@ -2,11 +2,8 @@
 layout: bookreview
 title: "Designing Your Life: Build a Life that Works for You"
 date: 2017-03-31 13:00
-bookstarted: 2017-03-16
 bookfinished: 2017-03-31
 rating: 3
-bookcoverimage: https://images.gr-assets.com/books/1476133952m/26046333.jpg
-reviewurl: https://www.goodreads.com/review/show/1943696597
 ---
 
 Designing Your Life is a book which seeks to apply product design practices to the problem of how to lead a good life. The idea is fairly simple and clever: prototype life changes with a goal of learning more about them, rather than dedicating time and effort towards making those life changes happen. The book is filled with anecdotes and a wide variety of devices intended to drive the point home, but that is the essence of the concept.

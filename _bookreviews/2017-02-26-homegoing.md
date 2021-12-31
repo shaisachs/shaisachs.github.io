@@ -2,14 +2,11 @@
 layout: bookreview
 title: "Homegoing"
 date: 2017-02-26 13:00
-bookstarted: 2017-02-07
 bookfinished: 2017-02-26
 rating: 4
-bookcoverimage: https://images.gr-assets.com/books/1448108591m/27071490.jpg
-reviewurl: https://www.goodreads.com/review/show/1906246792
 ---
 
-Homegoing is an epic which tracks two branches of an extended family through centuries of history in Ghana and the US. One half of the family descends from a daughter who marries a British naval captain charged with overseeing the slave trade in precolonial days. The other descends from a daughter who is captured during an Asante raid on her village and sold into slavery, unbeknownst, by that same captain. From there we explore the trials and tribulations of each generation of both sides of the family as they suffer through slavery, colonialism, war, and simple human cruelty. For all that, this is a book thick with magical writing, and a transcendent perspective that almost allows us to zoom out from all of these horrors, without losing track of the suffering involved. It's an extraordinary feat of creative historical writing.
+Homegoing is an epic which tracks two branches of an extended family through centuries of history in Ghana and the US. One half of the family descends from a daughter who marries a British naval captain charged with overseeing the slave trade in precolonial days. The other descends from a daughter who is captured during an Asante raid on her village and sold into slavery, unbeknownst, by that same captain. From there we explore the trials and tribulations of each generation of both sides of the family as they suffer through slavery, colonialism, war, and simple human cruelty. For all that, this is a book thick with magical writing, and a  transcendent perspective that almost allows us to zoom out from all of these horrors, without losing track of the suffering involved. It's an extraordinary feat of creative historical writing.
 
 
 

@@ -2,11 +2,8 @@
 layout: bookreview
 title: "The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business"
 date: 2017-02-06 13:00
-bookstarted: 2017-01-23
 bookfinished: 2017-02-06
 rating: 3
-bookcoverimage: 
-reviewurl: https://www.goodreads.com/review/show/971387528
 ---
 
 The Innovator's Dilemma is a classic study of innovation and its role in the success or failure of firms in an industry. Christensen's famous theory states that at a certain point in the development of an industry, firms can fail by innovating in the wrong way - pursuing sustaining innovations (those which enhance their central lines of business, which make it easier to reach their existing customers, etc.) and ignoring disruptive innovations (those which introduce new products, which serve undiscovered markets, which deliver value to the customer in a new way.) Moreover, the theory suggests that the problem of pursuing the wrong sort of innovation is endemic to healthy, well-managed firms which are actively pursuing the innovations which seem most logical and profitable in the short run - hence the innovator's dilemma. This theory is drawn from case studies across a variety of industries: hard disk drives, excavation equipment, steel mills, and so forth. 

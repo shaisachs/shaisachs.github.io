@@ -1,12 +1,9 @@
 ---
 layout: bookreview
-title: "The Cuckoo's Calling"
+title: "The Cuckoo's Calling (Cormoran Strike, #1)"
 date: 2018-10-31 13:00
-bookstarted: 2018-10-26
 bookfinished: 2018-10-31
 rating: 3
-bookcoverimage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540217136l/16160797._SX98_.jpg
-reviewurl: https://www.goodreads.com/review/show/2573870501
 ---
 
 The Cuckoo's Calling is the first in a series of detective novels featuring Cormoran Strike. It focuses on the death of fictional supermodel Lula Landry. Landry's brother hires Strike to investigate a variety of mysterious circumstances surrounding the death - police have ruled it a suicide, but Landry's brother is certain that darker forces are at work. What ensues is a modern take on a classic genre: the British detective novel brought into the era of cell phones and subways. It's got everything you expect of the genre: the sharp-eyed but flawed detective, the plucky and inventive assistant, a cluster of telling clues, the big reveal at the end.
