@@ -1,7 +1,7 @@
 ---
 layout: post
-title: AI Hype
-date: 2022-01-13 12:06
+title: AI Hype and The Game
+date: 2022-01-13 19:06
 tags: prose
 excerpt_separator: <!--more-->
 ---
