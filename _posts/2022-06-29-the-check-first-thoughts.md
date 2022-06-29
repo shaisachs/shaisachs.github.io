@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 I've started putting together some thoughts on my next short story, The Check. As I wrote in [my first thoughts on The Game](https://shaisachs.com/2021/01/19/the-game.html), I'm hoping to use the [kishōtenketsu format](https://shaisachs.com/2021/01/09/kishotenketsu.html) to tie my first three stories together. As with the others, it will also live somewhere in the genre I've been calling [techno-magical realism](https://shaisachs.com/2018/05/05/the-menu.html) - a machine with impossibly fanciful intelligence, materialized out of nowhere as if by magic, will satirize the notion of artificial intelligence.
 
-<!--explore-->
+<!--more-->
 
 The particular critique of AI which I want to explore is its rather slavish devotion to data and its tendency to overfit its training set. Or as Timnit Gebru and Margaret Mitchell put it, AI efforts are not producing intelligence, but rather [stochastic parrots](https://dl.acm.org/doi/10.1145/3442188.3445922).
 
