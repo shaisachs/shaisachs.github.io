@@ -1,7 +1,7 @@
 ---
 title: "OpenAPI Workflows"
 date: 2023-05-01
-icon: globe
+icon: spoon
 category: career
 weight: 70
 featured: 1
