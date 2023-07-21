@@ -1,5 +1,5 @@
 ---
-title: "TextBanking"
+title: "NGP VAN TextBanking"
 date: 2017-10-01
 icon: compass
 category: career
