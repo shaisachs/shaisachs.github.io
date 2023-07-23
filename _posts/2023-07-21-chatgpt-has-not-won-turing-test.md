@@ -9,6 +9,8 @@ I have watched the development of ChatGPT with more than a little fascination. W
 
 <!--more-->
 
+The difference between winning and losing the Turing test is, that winning the Turing test confers a kind of humanity on the computer. Losing the Turing test leaves the computer as just another tool, albeit a very versatile one. That is the whole ball game, really. Are these things tools, or are they in some way fellow sentient beings?
+
 The big danger with AI is not so much that it will turn all of our toasters into brain-eating zombies, or something of the sort. Rather, it is the danger that we will *think* it capable of such acts, that we will *mistake* it for an autonomous entity, and will inadvertantly grant it rights well outside its due.
 
 My view is that AI is a useful tool, but ultimately just a tool, which is marshaled by people and organizations like any other. The main difference between AI and other tools is that it offers a layer of plausible deniability, a veneer of misdirection, much more so than other tools. If a carpenter wields a hammer but bangs someone's thumb rather than a nail - well, the carpenter can be held accountable for the damage done. The same should be true of people and organizations using AI, and especially LLMs, for one purpose or another.
