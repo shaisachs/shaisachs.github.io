@@ -1,6 +1,6 @@
 ---
 layout: bookreview
-title: "America Again: Re-becoming the Greatness We Never Weren't"
+title: "AMERICA AGAIN (REMAINDER)"
 date: 2013-01-09 13:00
 bookfinished: 2013-01-09
 rating: 2

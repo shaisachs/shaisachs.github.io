@@ -1,6 +1,6 @@
 ---
 layout: bookreview
-title: "The Star Rover"
+title: "The Star Rover (Modern Library Classics)"
 date: 2013-05-22 13:00
 bookfinished: 2013-05-22
 rating: 3

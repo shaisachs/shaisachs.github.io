@@ -1,6 +1,6 @@
 ---
 layout: bookreview
-title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
+title: "The Lean Startup"
 date: 2014-01-12 13:00
 bookfinished: 2014-01-12
 rating: 3

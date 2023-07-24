@@ -1,6 +1,6 @@
 ---
 layout: bookreview
-title: "The Amber Spyglass"
+title: "The Amber Spyglass (His Dark Materials, #3)"
 date: 2013-10-06 13:00
 bookfinished: 2013-10-06
 rating: 3

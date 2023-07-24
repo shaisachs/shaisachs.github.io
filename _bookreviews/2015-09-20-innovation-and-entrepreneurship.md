@@ -1,6 +1,6 @@
 ---
 layout: bookreview
-title: "Innovation and Entrepreneurship: Practice and Principles"
+title: "Innovation and Entrepreneurship"
 date: 2015-09-20 13:00
 bookfinished: 2015-09-20
 rating: 3

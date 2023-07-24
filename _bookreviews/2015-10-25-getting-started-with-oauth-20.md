@@ -1,6 +1,6 @@
 ---
 layout: bookreview
-title: "Getting Started with OAuth 2.0"
+title: "Getting Started with OAuth 2.0: Programming Clients for Secure Web API Authorization and Authentication"
 date: 2015-10-25 13:00
 bookfinished: 2015-10-25
 rating: 3

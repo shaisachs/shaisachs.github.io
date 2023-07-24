@@ -1,6 +1,6 @@
 ---
 layout: bookreview
-title: "Life After Life (Todd Family, #1)"
+title: "Life After Life (Todd Family #1)"
 date: 2014-04-17 13:00
 bookfinished: 2014-04-17
 rating: 4

@@ -1,6 +1,6 @@
 ---
 layout: bookreview
-title: "My Brilliant Friend (L'amica geniale #1)"
+title: "My Brilliant Friend (My Brilliant Friend #1)"
 date: 2017-01-19 13:00
 bookfinished: 2017-01-19
 rating: 3

@@ -1,6 +1,6 @@
 ---
 layout: bookreview
-title: "John Dollar"
+title: "John Dollar (Wsp Contemporary Classics)"
 date: 2014-05-06 13:00
 bookfinished: 2014-05-06
 rating: 3

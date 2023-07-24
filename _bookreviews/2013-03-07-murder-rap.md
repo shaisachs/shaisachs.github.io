@@ -1,6 +1,6 @@
 ---
 layout: bookreview
-title: "Murder Rap"
+title: "Murder Rap: The Untold Story of the Biggie Smalls & Tupac Shakur Murder Investigations by the Detective Who Solved Both Cases"
 date: 2013-03-07 13:00
 bookfinished: 2013-03-07
 rating: 2

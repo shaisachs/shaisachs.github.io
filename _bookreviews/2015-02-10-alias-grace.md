@@ -1,6 +1,6 @@
 ---
 layout: bookreview
-title: "Alias Grace"
+title: "alias Grace."
 date: 2015-02-10 13:00
 bookfinished: 2015-02-10
 rating: 4
