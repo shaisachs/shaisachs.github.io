@@ -2,7 +2,6 @@
 title: "Chewy Promotions Engine"
 date: 2023-02-01
 icon: usd
-link: https://www.chewy.com
 category: career
 weight: 90
 featured: 1
