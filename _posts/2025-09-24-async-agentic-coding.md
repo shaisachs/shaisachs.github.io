@@ -27,3 +27,5 @@ Here's how I'm thinking about it.
 Hopefully none of the above comes across as talking-down to junior engineers. I think junior engineers are quite talented as a group. It's more a question of putting async agentic agents in a kind of organizational sandbox and fiddling with them until we have a better understanding of how they work.
 
 On the whole, I'm quite skeptical of async agentic coding as a practice. It's very new and not very widely practiced yet. But there's no way to ignore the potential of this approach, and we need to find a reasonable way to explore it.
+
+Written with help from chatgpt.
