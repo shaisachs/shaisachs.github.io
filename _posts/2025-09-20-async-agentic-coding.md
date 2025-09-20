@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Async Agentic Coding"
-date: 2025-09-24
+date: 2025-09-20
 ---
 
 The promise of async agentic coding is hard to ignore. Tools like Claude Code point toward a workflow where the AI does more than autocomplete. It tries things — looping asynchronously, exploring options, and surfacing solutions that might be difficult for a human to brute force. More than that, the AI coding assistant is async, meaning that it's possible to run multiple agents in parallel. That's a very different way of writing code than we're used to.
