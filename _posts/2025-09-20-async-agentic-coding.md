@@ -1,31 +1,33 @@
 ---
 layout: post
-title: "Async Agentic Coding"
+title: "Async Coding Agents"
 date: 2025-09-20
 ---
 
-The promise of async agentic coding is hard to ignore. Tools like Claude Code point toward a workflow where the AI does more than autocomplete. It tries things — looping asynchronously, exploring options, and surfacing solutions that might be difficult for a human to brute force. More than that, the AI coding assistant is async, meaning that it's possible to run multiple agents in parallel. That's a very different way of writing code than we're used to.
+There is something new brewing in the world of coding, thanks to async coding agents like Claude Code. As [Vincent Quigley](https://www.sanity.io/blog/first-attempt-will-be-95-garbage) and [Zach Wills](https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development), describe, async agentic coders are parallelizable. You set up some context, break up a project into multiple pieces, assign sub-agents tasks within the project, give them a coordination project - and watch them go. It's a pretty exciting idea! Clearly there's a lot of potential here. But there's a steep learning curve to managing async coding agents, and that poses a major challenge for engineering leaders.
 
-As [Vincent Quigley](https://www.sanity.io/blog/first-attempt-will-be-95-garbage) describes well, the process looks messy. The first attempt will be 95% garbage. That is not a flaw; it is the design. With enough iterations, good code eventually emerges. Or more to the point, senior engineers can sift through the bad code and find the good code.
+First and foremost, that is because this approach has a high price tag. The pricing plans are different and, at a very basic level, more coding agents means more usage means higher bills. Using this approach indiscriminately is just lighting money on fire.
 
-What's more exciting is that async coding is becoming a reality. As [Zach Wills explains](https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development), agentic coding can be parallelized. Engineers can set up subagents to take on multiple sub-tasks at the same time, effectively building automated product development assembly lines. The trick is coordinating and managing all of these subagents, spec'ing out the behavior with sufficient clarity up-front, and monitoring agents to make sure they're not running off the rails. Here again, the tools are better suited to senior engineers, who are more adept at proper spec'ing
+Just as importantly, this approach requires a new kind of skill set which is very different than what we've seen before. It's really hard for an individual engineer to actually run one of these async coding agent sessions. The early discourse on this approach is that it's like having a team of junior engineers at your beck and call. A team of junior engineers is great! They can get a lot done! They also require a huge amount of supervision and guidance!
 
-On the flip side, async agentic coding can quickly become an expensive enterprise. The price-per-token model adds up quickly, and running multiple agents in parallel, obviously, consumes more tokens than one agent at a time.
-
-The challenge for engineering leadership is, how and when should we adopt this stuff? Clearly it's got a lot of potential, but just as clearly it's easy to adopt it in costly and counter-productive ways.
+So the question is, how do we properly roll out these tools in a way that's cost-effective and productive?
 
 Here's how I'm thinking about it.
 
-1. Create a small pilot. Carefully select a big-enough project that's not terribly experimental - something that lends itself well to spec-driven-development. Just as carefully, select an engineer who is familiar enough with the code base, and who has decent tenure, to oversee the agents.
+1. *Carefully design a pilot project.* Choose the right feature and the right engineer. You want a feature that's not too small (because there's no sense parallelizing that kind of work), that has a good number of well-defined tasks (which can be cleanly sub-divided across sub-agents), and that has a clear end point (so that you can readily detect diversion and rabbit holes.) The engineer should be someone who knows the feature pretty well and could execute the project by hand if need be.
 
-2. Train and expand. Develop best practices around writing specs and coordinating sub-agents (i.e., through task lists and centralized markdown files). Share agentic guideline files, akin to the appendix of Wills's post. Run some workshops and office hours to guide early adopters in the process.
+2. *Lay the groundwork.* Quigley and Wills have some good pointers on how to setup context and coordinate agents. In general I prefer not to over-think things, but for a pilot project I suspect that a little extra prep, even going so far as to code-review specs and agentic guidelines, might be worthwhile. It goes without saying that MCPs should be configured properly before diving in.
 
-3. Evaluate and measure. This step is really tricky. You want to measure time-to-deliver and cost, of course, and you want to get some sense of the speedup provided by async agentic coding - that gives you a sense of ROI. The problem is you won't necessarily know the counterfactual (how long would async projects have taken if you had done them by hand?), so you have to rely on levels-of-effort estimates which are necessarily subject to bias, in a space already rife with confirmation bias.
+3. *Execute the project.* Get the code working, and try to keep track of how the agents behaved along the way, what sort of course corrections were needed, etc.
 
-4. Climb the ladder. Ideally you want junior engineers to "graduate" into async agentic coding. To do so they should prove facility with writing specs and managing async processes. Fortunately, it is possible to demonstrate these skills cheaply. Junior engineers can practice writing specs by drafting Jira tickets and design documents. They can practice managing async processes by providing Cursor with prompts, nudging it to run tests and write commits, and allowlisting the relevant commands.
+4. *Measure and celebrate.* The goal is to demonstrate productivity improvements, ideally by comparing, on the one hand, a good-faith level of effort estimate made before the project started; against the time spent with the agents as well as the cost of token usage, on the other hand. Once the code is deployed and working, it's time to celebrate the victory!
 
-Hopefully none of the above comes across as talking-down to junior engineers. I think junior engineers are quite talented as a group. It's more a question of putting async agentic agents in a kind of organizational sandbox and fiddling with them until we have a better understanding of how they work.
+5. *Curate the backlog.* Look for projects that fit this mold. Establish and nurture a culture in which Jira tickets are detailed and precise, with all requirements clarified before tickets can be accepted onto a sprint. It's actually possible to use Atlassian Rovo to identify tickets which are poorly specified, though it helps if you can provide some reference tickets indicating the degree of specificity you want.
 
-On the whole, I'm quite skeptical of async agentic coding as a practice. It's very new and not very widely practiced yet. But there's no way to ignore the potential of this approach, and we need to find a reasonable way to explore it.
+6. *Train and expand.* Find more engineers who can take parallelizable projects, and circulate the learnings around how to guide async coding agents. Place a special emphasis on spec-driven development. Source control specs / prompts and agentic guideline files, akin to the appendix of Wills's post. Run some workshops and office hours to guide adopters in the process.
 
-Written with help from chatgpt.
+7. *Evaluate and measure.* This step is really tricky. You want to measure time-to-deliver and cost, of course, and you want to get some sense of the speedup provided by async coding agents - that gives you a sense of ROI. The problem is you won't necessarily know the counterfactual (how long would async projects have taken if you had done them by hand?). One approach is to rely on levels-of-effort estimates, though these are are necessarily subject to bias, and this space is already rife with confirmation bias. The industry best practice for measuring interactive coding agents like Cursor appears to be centered around [PR throughput and change failure rate](https://newsletter.pragmaticengineer.com/p/how-tech-companies-measure-the-impact-of-ai), and that's probably a good place to start for async coding agents.
+
+This paradigm shift is exciting. It feels like the future. But it's so new that we have yet to fully understand it or to see how it will reshape software engineering practice. I do think it's important to start climbing the learning curve, though.
+
+Written with help from ChatGPT, though I wound up substantially rewriting after a couple of rounds.
