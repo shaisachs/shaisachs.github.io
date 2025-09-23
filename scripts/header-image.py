@@ -4,8 +4,8 @@ import requests
 from io import BytesIO
 import os
 
-TARGET_WIDTH = 1200
-TARGET_HEIGHT = 630
+TARGET_WIDTH = 950
+TARGET_HEIGHT = 300
 
 def resize_and_crop(url, output="async-agentic-header.jpg"):
     # Download
@@ -46,3 +46,5 @@ if __name__ == "__main__":
     output = sys.argv[2]
 
     resize_and_crop(url, output)
+
+# written by chatgpt
