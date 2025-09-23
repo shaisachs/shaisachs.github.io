@@ -2,7 +2,7 @@
 layout: post
 title: "Async Coding Agents"
 date: 2025-09-20
-bannerimg: img/posts/async-agentic-coding.jpg
+bannerimg: /img/posts/async-agentic-coding.jpg
 photographer: Boitumelo
 photographerurl: https://unsplash.com/@writecodenow
 ---
