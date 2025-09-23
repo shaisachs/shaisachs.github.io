@@ -2,6 +2,9 @@
 layout: post
 title: "Async Coding Agents"
 date: 2025-09-20
+bannerimg: img/posts/async-agentic-coding.jpg
+photographer: Boitumelo
+photographerurl: https://unsplash.com/@writecodenow
 ---
 
 There is something new brewing in the world of coding, thanks to async coding agents like Claude Code. As [Vincent Quigley](https://www.sanity.io/blog/first-attempt-will-be-95-garbage) and [Zach Wills](https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development) describe, async agentic coders are parallelizable. You set up some context, break up a project into multiple pieces, assign sub-agents to tasks within the project, give them a coordination point - and watch them go. It's a pretty exciting idea! Clearly there's a lot of potential here. But there's a steep learning curve to managing async coding agents, and that poses a major challenge for engineering leaders.
