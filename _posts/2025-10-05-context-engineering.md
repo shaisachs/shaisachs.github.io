@@ -14,5 +14,4 @@ I have been trying out this approach in some of my projects and I like it for ma
 
 Context engineering is not a silver bullet. It requires a lot of focus; it is very sensitive to the initial plan; it is probably best rolled out to one small team at a time; and even then it can fail to materialize real gains. But I think it's a very promising direction for the future!
 
-
 Also find this post on [LinkedIn](https://www.linkedin.com/posts/shaisachs_advanced-context-engineering-for-coding-agents-activity-7379123073888985089-6ZiN)!
