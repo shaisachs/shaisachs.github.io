@@ -25,4 +25,4 @@ Moreover, it's extremely exciting in special-case experiments. For example, [Tom
 
 I'm skeptical that specs will ever replace code. Still, the idea of spec-driven development is clearly compelling and important, and something we need to explore more deeply.
 
-Also find this post on [LinkedIn](https://www.linkedin.com/posts/shaisachs_one-of-the-ways-we-are-grappling-with-the-activity-7384196851140333570-Xwks?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAvmDIBCoIE2FfTQbmbSmzo0Ak-9nDe0rA)!
+Also find this post on [LinkedIn](https://www.linkedin.com/posts/shaisachs_one-of-the-ways-we-are-grappling-with-the-activity-7384196851140333570-Xwk)!
