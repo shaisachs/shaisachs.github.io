@@ -5,6 +5,7 @@ date: 2025-10-22 08:00
 bannerimg: /img/posts/dictionary.jpg
 photographer: Tamara Menzi
 photographerurl: https://unsplash.com/@itstamaramenzi
+linkedinpost: https://www.linkedin.com/posts/shaisachs_software-has-a-metaphor-problem-and-grappling-activity-7386733817874558977-1Rgw
 ---
 
 Software has a metaphor problem, and grappling with it is key to unlocking the future of agentic coding.
@@ -22,5 +23,3 @@ Still, I think the long-term maintenance question is far from settled. Fundament
 The building metaphor is failing us when it comes to encoding and extending a shared mental model - buildings don't really need constantly-changing shared mental models, because buildings don't change all that often. In software, the best way we've thought to encode shared mental models is to create documentation. We've tried that, six ways to Sunday, and it's never quite sufficient. The agentic loop, and its predecessor like AGENTS.md, are essentially resting on that shaky foundation. (There's the building metaphor again!)
 
 In a way, we are rediscovering some of the fundamental problems of software, and we're coming to grips with the fact that we don't really understand it. It's time to find a new metaphor for this thing we've been practicing for seven-some decades!
-
-Also find this post on [LinkedIn](https://www.linkedin.com/posts/shaisachs_software-has-a-metaphor-problem-and-grappling-activity-7386733817874558977-1Rgw)!

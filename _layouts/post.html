@@ -39,6 +39,12 @@
 					<article class="post-content">
 						{{ content }}
 
+						{% if page.linkedinpost %}
+							<p class="linkdinpost">Also find this post on 
+								<a href="{{ page.linkedinpost }}">LinkedIn</a>!
+							</p>
+						{% endif %}
+
 						{% if page.photographer %}
 							<p class="credits">Image courtesy of
 								{% if page.photographerurl %}

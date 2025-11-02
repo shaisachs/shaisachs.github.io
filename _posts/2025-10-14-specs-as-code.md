@@ -2,6 +2,7 @@
 title: Specs as code
 layout: post 
 date: 2025-10-14 08:00
+linkedinpost: https://www.linkedin.com/posts/shaisachs_one-of-the-ways-we-are-grappling-with-the-activity-7384196851140333570-Xwk
 ---
 
 One of the ways we are grappling with the phenomenon of AI-assisted coding is to theorize that specifications are going to replace code. That's basically what this [conference talk by Sean Grove](https://www.youtube.com/watch?v=8rABwKRsec4) argues.
@@ -24,5 +25,3 @@ All that said, the idea of specs as code is still useful, especially as a what-i
 Moreover, it's extremely exciting in special-case experiments. For example, [Tomas Vesely's work on the GitHub Brain MCP server](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/) is fascinating and instructive. This project is pretty unusual compared to other software projects in many respects. But it's still cool to see the specs-as-code idea in the wild, and the write-up includes some great learnings.
 
 I'm skeptical that specs will ever replace code. Still, the idea of spec-driven development is clearly compelling and important, and something we need to explore more deeply.
-
-Also find this post on [LinkedIn](https://www.linkedin.com/posts/shaisachs_one-of-the-ways-we-are-grappling-with-the-activity-7384196851140333570-Xwk)!
