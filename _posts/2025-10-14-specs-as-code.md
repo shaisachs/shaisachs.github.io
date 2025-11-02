@@ -2,7 +2,7 @@
 title: Specs as code
 layout: post 
 date: 2025-10-14 08:00
-linkedinpost: https://www.linkedin.com/posts/shaisachs_one-of-the-ways-we-are-grappling-with-the-activity-7384196851140333570-Xwk
+linkedinpost: https://www.linkedin.com/posts/shaisachs_one-of-the-ways-we-are-grappling-with-the-activity-7384196851140333570-Xwks
 ---
 
 One of the ways we are grappling with the phenomenon of AI-assisted coding is to theorize that specifications are going to replace code. That's basically what this [conference talk by Sean Grove](https://www.youtube.com/watch?v=8rABwKRsec4) argues.
