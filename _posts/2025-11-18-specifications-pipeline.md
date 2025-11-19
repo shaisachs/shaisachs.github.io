@@ -2,6 +2,7 @@
 title: "The specifications pipeline"
 layout: post 
 date: 2025-11-18 20:00
+linkedinpost: https://www.linkedin.com/posts/shaisachs_github-githubspec-kit-toolkit-to-help-activity-7396895777521823744-_JjE
 ---
 
 I finally got the chance to play with [GitHub Spec Kit](https://github.com/github/spec-kit) the other day. It's a pretty good framework for spec driven development! It establishes a spec -> implementation plan -> task list pipeline, followed of course by task implementation. 

@@ -2,6 +2,7 @@
 title: "Constitutional software engineering"
 layout: post 
 date: 2025-11-09 08:00
+linkedinpost: https://www.linkedin.com/posts/shaisachs_what-is-your-products-red-line-what-are-activity-7394359062840373250-F1GA
 ---
 
 What is your product's red line? What are the things it must never, never do?
