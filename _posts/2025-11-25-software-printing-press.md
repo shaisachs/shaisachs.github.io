@@ -1,3 +1,11 @@
+
+---
+title: "The software printing press"
+layout: post 
+date: 2025-11-25 20:00
+linkedinpost: https://www.linkedin.com/posts/shaisachs_will-generative-ai-be-for-software-what-the-activity-7399073133619474433-E_Bn
+---
+
 Will generative AI be for software what the printing press was for writing?
 
 The prospect is exciting, and there's a ton of hype and capital riding on the assumption that it is - or that it will be. If it pans out, the implications are potentially world-changing, in the same way that the printing press gave us revolutions in religion, politics, and science.
