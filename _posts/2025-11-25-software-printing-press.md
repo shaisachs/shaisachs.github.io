@@ -1,4 +1,3 @@
-
 ---
 title: "The software printing press"
 layout: post 
