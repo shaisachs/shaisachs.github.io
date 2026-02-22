@@ -2,6 +2,7 @@
 layout: bookreview
 title: "Convenience Store Woman"
 date: 2026-01-01 20:00
+bookstarted: 2026-01-01
 bookfinished: 2026-01-01
 rating: 3
 ---

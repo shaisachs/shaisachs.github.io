@@ -2,6 +2,7 @@
 layout: bookreview
 title: "The Burgess Boys"
 date: 2026-02-21 20:00
+bookstarted: 2025-02-16
 bookfinished: 2026-02-21
 rating: 2
 ---

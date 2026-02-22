@@ -2,6 +2,7 @@
 layout: bookreview
 title: "The Sentence"
 date: 2026-01-23 20:00
+bookstarted: 2025-12-30
 bookfinished: 2026-01-23
 rating: 4
 ---
