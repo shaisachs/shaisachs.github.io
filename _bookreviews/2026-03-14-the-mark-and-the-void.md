@@ -1,9 +1,9 @@
 ---
 layout: bookreview
 title: "The Mark and the Void"
-date: 2026-02-14 20:00
+date: 2026-03-14 20:00
 bookstarted: 2026-01-27
-bookfinished: 2026-02-14
+bookfinished: 2026-03-14
 rating: 3
 ---
 
