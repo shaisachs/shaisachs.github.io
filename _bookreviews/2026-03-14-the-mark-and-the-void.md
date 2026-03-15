@@ -7,7 +7,7 @@ bookfinished: 2026-03-14
 rating: 3
 ---
 
-This book is the story of an investment banker in Great Recession-erra Dublin, and an author who purports to write a book about the banker's life. The author turns out to be something of a scammer, the banker is oddly obsessed with the author's literary fortunes nonetheless, the global economy is in ruins. Hilarity ensues.
+This book is the story of an investment banker in Great Recession-era Dublin, and an author who purports to write a book about the banker's life. The author turns out to be something of a scammer, the banker is oddly obsessed with the author's literary fortunes nonetheless, the global economy is in ruins. Hilarity ensues.
 
 It is difficult to remember today, perhaps, but the Great Recession really was a kind of grand epistemic crisis. Although in retrospect, as far as epistemology is concerned, that was a picnic in the park compared to what we're seeing today. Fortunes were made and lost on perception and forecasts, the market was held up by vibes, and governments readily coughed up 11 and 12 digits' worth of money to keep up appearances. (In retrospect, the 1992 sterling crisis was again a kind of taste of what was to come in 2008-9.) Moral hazard was a joke.
 
