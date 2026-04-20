@@ -14,7 +14,7 @@ function getCurrentSeason() {
 }
 
 function setSeasonalHeaderBackground() {
-  const header = document.querySelector("#header");
+  const header = document.querySelector(".header");
   if (!header) return;
 
   const season = getCurrentSeason();
