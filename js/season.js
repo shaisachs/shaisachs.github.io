@@ -12,3 +12,13 @@ function getCurrentSeason() {
     return "winter"; // December–February
   }
 }
+
+function setSeasonalHeaderBackground() {
+  const header = document.querySelector("#header");
+  if (!header) return;
+
+  const season = getCurrentSeason();
+  header.style.background = `url(../img/bg-${season}.jpg) no-repeat center center scroll`;
+}
+
+setSeasonalHeaderBackground();
