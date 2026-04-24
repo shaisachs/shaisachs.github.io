@@ -3,6 +3,9 @@ title: "The software printing press"
 layout: post 
 date: 2025-11-25 20:00
 linkedinpost: https://www.linkedin.com/posts/shaisachs_will-generative-ai-be-for-software-what-the-activity-7399073133619474433-E_Bn
+bannerimg: /img/posts/books.jpg
+photographer: Annie Spratt
+photographerurl: https://unsplash.com/@anniespratt
 ---
 
 Will generative AI be for software what the printing press was for writing?

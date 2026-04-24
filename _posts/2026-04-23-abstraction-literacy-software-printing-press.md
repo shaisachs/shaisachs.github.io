@@ -2,6 +2,9 @@
 title: "Abstraction Literacy and the Software Printing Press"
 layout: post
 date: 2026-04-23 08:00
+bannerimg: /img/posts/books.jpg
+photographer: Annie Spratt
+photographerurl: https://unsplash.com/@anniespratt
 ---
 
 I'm really fascinated by the phenomenon which Nilay Patel terms [software brain](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation). I think he gets a couple of things wrong, but he is absolutely right that a new skill is becoming crucial; I think of it as abstraction literacy.
