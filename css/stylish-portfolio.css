@@ -335,3 +335,15 @@ footer {
   color: white;
   text-decoration: underline;
 }
+
+#contactForm {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#contactForm input, 
+#contactForm textarea, 
+#contactForm button {
+    width: 100%;
+}
