@@ -45,11 +45,15 @@
   const ENTRY_EMAIL = "entry.83157207";
   const ENTRY_MESSAGE = "entry.1108340479";
 
-  document.getElementById("contactForm").addEventListener("submit", async function(e) {
+  const form = document.getElementById("contactForm");
+  const button = form.querySelector("button");
+  const status = document.getElementById("status");
+
+  form.addEventListener("submit", async function(e) {
     e.preventDefault();
 
-    const status = document.getElementById("status");
     status.textContent = "";
+    button.disabled = true;
 
     const formData = new FormData();
     formData.append(ENTRY_NAME, document.getElementById("name").value);
@@ -64,10 +68,12 @@
       });
 
       status.textContent = "thank you! your message was received.";
-      document.getElementById("contactForm").reset();
+      form.reset();
 
     } catch (err) {
       status.textContent = "sorry, your message could not be sent.";
+    } finally {
+      button.disabled = false;
     }
   });
 </script>
