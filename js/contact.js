@@ -14,6 +14,9 @@ form.addEventListener("submit", async function(e) {
     status.textContent = "";
     button.disabled = true;
 
+    var submitCaption = button.textContent;
+    button.textContent = "Sending..."
+
     const formData = new FormData();
     formData.append(ENTRY_NAME, document.getElementById("name").value);
     formData.append(ENTRY_EMAIL, document.getElementById("email").value);
@@ -21,9 +24,9 @@ form.addEventListener("submit", async function(e) {
 
     try {
         await fetch(FORM_URL, {
-        method: "POST",
-        mode: "no-cors",
-        body: formData
+            method: "POST",
+            mode: "no-cors",
+            body: formData
         });
 
         status.textContent = "Thank you! Your message was received.";
@@ -33,5 +36,6 @@ form.addEventListener("submit", async function(e) {
         status.textContent = "Sorry, your message could not be sent.";
     } finally {
         button.disabled = false;
+        button.textContent = submitCaption;
     }
 });
