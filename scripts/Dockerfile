@@ -16,6 +16,6 @@ ENTRYPOINT ["python", "header-image.py"]
 # Usage:
 # docker build -t header-image .
 #
-#  docker run --rm -v $(pwd):/app header-image  "https://images.unsplash.com/photo-1651990892631-723da6447d7d" "async-agentic-coding.jpg"
+# docker run --rm -v $(pwd):/app header-image  "https://images.unsplash.com/photo-1651990892631-723da6447d7d" "async-agentic-coding.jpg"
 
 # written by chatgpt
