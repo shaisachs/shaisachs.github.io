@@ -1,5 +1,5 @@
 ---
-title: "Abstraction Literacy and the Software Printing Press"
+title: "Context cohesion"
 layout: post
 date: 2026-05-09 09:00
 ---
