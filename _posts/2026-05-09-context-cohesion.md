@@ -10,7 +10,7 @@ That's my latest theory of agentic coding. In my travels I've noticed that when 
 
 My mental model of LLMs is that they're giant dictionaries; that's grossly over-simplified of course. With dictionaries, the better-focused your search terms, the more likely you are to get results. This approach matches my own approach to engineering: ideally everything from Jira items to microservices to individual classes should be cohesive and well-focused. Why should prompts be any different?
 
-The agents are getting smarter and smarter, of course, and I think the labs are working around the problem of incoherent context in various ways - periodic compaction and things like that. But ultimately I think it's just so many parlor tricks around what is something of a fundamental limitation - if you try to do too much you wind up doing nothing.
+The agents are getting smarter and smarter, of course, and I think the labs are working around the problem of incohesive context in various ways - periodic compaction and things like that. But ultimately I think it's just so many parlor tricks around what is something of a fundamental limitation - if you try to do too much you wind up doing nothing.
 
 As a result I've taken to tweaking the "task list" part of my spec-driven development approach, so that each task is tightly focused on just the problem at hand, with all of the context it needs on a single line. I'll link my approach in the comments, but the TLDR is that I start with an implementation plan and then I ask the agent to turn it into a task list; then I feed the task list through a Wiggums loop. 
 
