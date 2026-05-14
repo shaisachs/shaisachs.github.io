@@ -2,6 +2,7 @@
 title: "Context cohesion"
 layout: post
 date: 2026-05-09 09:00
+linkedinpost: https://www.linkedin.com/posts/shaisachs_its-not-the-size-of-the-context-window-share-7458868477228036096-RZGI
 ---
 
 It's not the size of the context window, it's the cohesion of what's inside.
@@ -12,7 +13,7 @@ My mental model of LLMs is that they're giant dictionaries; that's grossly over-
 
 The agents are getting smarter and smarter, of course, and I think the labs are working around the problem of incohesive context in various ways - periodic compaction and things like that. But ultimately I think it's just so many parlor tricks around what is something of a fundamental limitation - if you try to do too much you wind up doing nothing.
 
-As a result I've taken to tweaking the "task list" part of my spec-driven development approach, so that each task is tightly focused on just the problem at hand, with all of the context it needs on a single line. I'll link my approach in the comments, but the TLDR is that I start with an implementation plan and then I ask the agent to turn it into a task list; then I feed the task list through a Wiggums loop. 
+As a result I've taken to tweaking the "task list" part of my [spec-driven development approach](https://shaisachs.com/2026/04/15/getting-started-with-headless-coding.html), so that each task is tightly focused on just the problem at hand, with all of the context it needs on a single line. The TLDR of my approach is that I start with an implementation plan and then I ask the agent to turn it into a task list; then I feed the task list through a Wiggums loop. 
 
 The key learning, for me, is that the task list creation has to be somewhat dumb:
 
