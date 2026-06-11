@@ -1,5 +1,5 @@
 ---
-title: "Agentic code review"
+title: "Agentic code review framework"
 layout: post
 date: 2026-06-09 18:00
 ---
