@@ -2,6 +2,7 @@
 title: "Alienation"
 layout: post
 date: 2026-06-17 20:00
+linkedinpost: https://www.linkedin.com/posts/shaisachs_the-next-crisis-in-software-will-be-alienation-activity-7473158794731003904-bXLS
 ---
 
 The next crisis in software will be alienation. It's a hallmark of climbing up a layer of abstraction, and we've seen it before, but this layer of abstraction is a particularly big one.
