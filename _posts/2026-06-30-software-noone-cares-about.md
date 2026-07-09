@@ -2,6 +2,7 @@
 title: "Software no one cares about"
 layout: post
 date: 2026-06-30 18:00
+linkedinpost: https://www.linkedin.com/posts/shaisachs_in-any-conversation-about-agentic-coding-share-7477901718010101760-TS9g
 ---
 
 In any conversation about agentic coding, this phrase eventually crops up: "software no one cares about." This category is meant to include little convenience scripts that are meant for the sole use of the author, maybe some internal utilities to be shared with coworkers... certainly not mission-critical services. Usually the conversation pivots as follows: Agentic coding can implement such marginal software easily, but of course Serious Software is much more tricky. It's a conclusion that might've come straight out of the Innovator's Dilemma.

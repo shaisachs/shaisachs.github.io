@@ -2,6 +2,7 @@
 title: "Search and repeat"
 layout: post
 date: 2026-07-08 18:00
+linkedinpost: https://www.linkedin.com/posts/shaisachs_you-could-greatly-simplify-software-engineering-share-7480436454901432320-AtbM
 ---
 
 You could (greatly) simplify software engineering into two acts: search for a deterministic artifact; and repeatedly execute that artifact, over and over. Agentic coders are great at the first act, terrible at the second, and it's important to remember what you're trying to do when you leverage them. That is a crucial insight for developing efficient skills.
