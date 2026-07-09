@@ -4,7 +4,7 @@ layout: post
 date: 2026-07-08 18:00
 ---
 
-You could (greatly) simplify software engineering into two acts: search for a deterministict artifact; and repeatedly execute that artifact, over and over. Agentic coders are great at the first act, terrible at the second, and it's important to remember what you're trying to do when you leverage them. That is a crucial insight for developing efficient skills.
+You could (greatly) simplify software engineering into two acts: search for a deterministic artifact; and repeatedly execute that artifact, over and over. Agentic coders are great at the first act, terrible at the second, and it's important to remember what you're trying to do when you leverage them. That is a crucial insight for developing efficient skills.
 
 One of the key breakthroughs in separating "search" and "repeat" for agentic coders was the Cloudflare [Code Mode](https://blog.cloudflare.com/code-mode/) blog post from September. In that post, Cloudflare suggested that agents should not consume MCP tools directly, but rather write code to consume the tools, then execute that code. 
 
