@@ -2,6 +2,7 @@
 title: "Headless devex"
 layout: post
 date: 2026-07-14 18:00
+linkedinpost: https://www.linkedin.com/posts/shaisachs_lately-ive-been-wrestling-with-the-developer-share-7482997674195976192-Xwfh/
 ---
 
 Lately I've been wrestling with the developer experience for headless coding. This paradigm offers a lot of advantages to IDE-based coding - but it's not easy to adopt!
