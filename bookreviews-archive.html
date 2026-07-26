@@ -9,7 +9,7 @@ title:  "Book Reviews Archive"
 
 <p>Since January 2013, I’ve done my best to review every book I read. The result is a blog-by-books that has proven to be remarkably fun to write and revisit from time to time.</p>
 
-{% assign bookreviews = site.bookreviews %}
+{% assign bookreviews = site.bookreviews | sort: 'date' %}
 <section id="archive">
   <ul>
     {%for post in bookreviews %}
