@@ -7,7 +7,7 @@ title:  "Blog Archive"
   <li>&#10146; <a href="/">Home</a></li>
 </ul>
 
-{% assign blogposts = site.posts | where:'layout', 'post' | sort: 'date' %}
+{% assign blogposts = site.posts | where:'layout', 'post' | sort: 'date' | reverse %}
 <section id="archive">
   <ul>
   {%for post in blogposts %}
