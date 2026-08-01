@@ -47,6 +47,11 @@ Posts are short (~500 words, roughly 18-28 lines) and follow a consistent arc:
 - Short, human, and slightly offbeat. Single evocative words or phrases work well ("Alienation", "Lovable"), as do compound titles ("Software printing press: tool calls", "Agentic code review framework").
 - Prefer the counterintuitive or arresting angle over the descriptive one.
 
+## Guardrails
+
+- Do not invent details or stories that were not provided to you.
+- Kepp blog post bodies to 3,000 characters or less, so they can be posted to LinkedIn easily.
+
 ## Checklist before publishing
 
 - [ ] Does it open with a hook that pulls in a busy reader?
