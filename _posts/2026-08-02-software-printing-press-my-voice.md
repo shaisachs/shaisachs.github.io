@@ -1,5 +1,5 @@
 ---
-title: "Software printing press: my voice"
+title: "Software printing press: first blog post"
 layout: post
 date: 2026-08-02 18:00
 ---
