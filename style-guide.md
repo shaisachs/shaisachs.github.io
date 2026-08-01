@@ -51,6 +51,8 @@ Posts are short (~500 words, roughly 18-28 lines) and follow a consistent arc:
 
 - Do not invent details or stories that were not provided to you.
 - Kepp blog post bodies to 3,000 characters or less, so they can be posted to LinkedIn easily.
+- Don't use dangling modifiers, use a noun after the word "this".
+- Avoid repetition unless really necessary for dramatic effect. It should be rare.
 
 ## Checklist before publishing
 
