@@ -1,7 +1,7 @@
 ---
 title: "Software printing press: first blog post"
 layout: post
-date: 2026-08-02 18:00
+date: 2026-08-01 18:00
 ---
 
 I didn't write this post. My [software printing press](https://github.com/shaisachs/software-press) did!
